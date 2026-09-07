@@ -1,0 +1,51 @@
+{
+  "site": "atcoder",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-09-07T08:48:15.047Z",
+  "total_contests": 6,
+  "contests": [
+    {
+      "title": "JIJ Programming Contest 2026AtCoder Beginner Contest 476",
+      "start": "2026-09-19T20:00:00.000Z",
+      "end": "2026-09-19T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 230",
+      "start": "2026-09-20T20:00:00.000Z",
+      "end": "2026-09-20T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "ALGO ARTIS Programming Contest 2026 SeptemberAtCoder Heuristic Contest 072",
+      "start": "2026-09-25T18:00:00.000Z",
+      "end": "2026-10-05T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
+      "start": "2026-09-26T20:00:00.000Z",
+      "end": "2026-09-26T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 078",
+      "start": "2026-09-27T20:00:00.000Z",
+      "end": "2026-09-27T23:30:00.000Z",
+      "duration": 12600,
+      "source": "atcoder"
+    },
+    {
+      "title": "AAL Contest 001 Lets use segtree",
+      "start": "2026-10-12T12:00:00.000Z",
+      "end": "2026-10-12T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    }
+  ]
+}

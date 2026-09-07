@@ -1,0 +1,3121 @@
+{
+  "year": 2026,
+  "generated_at": "2026-09-07T08:48:15.054Z",
+  "total": 290,
+  "by_source": {
+    "luogu": 110,
+    "atcoder": 101,
+    "codeforces": 79
+  },
+  "contests": [
+    {
+      "title": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-10-17T22:35:00.000Z",
+      "end": "2026-10-18T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2261,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AAL Contest 001 Lets use segtree",
+      "start": "2026-10-12T12:00:00.000Z",
+      "end": "2026-10-12T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 078",
+      "start": "2026-09-27T20:00:00.000Z",
+      "end": "2026-09-27T23:30:00.000Z",
+      "duration": 12600,
+      "source": "atcoder"
+    },
+    {
+      "title": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
+      "start": "2026-09-26T20:00:00.000Z",
+      "end": "2026-09-26T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "ALGO ARTIS Programming Contest 2026 SeptemberAtCoder Heuristic Contest 072",
+      "start": "2026-09-25T18:00:00.000Z",
+      "end": "2026-10-05T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 230",
+      "start": "2026-09-20T20:00:00.000Z",
+      "end": "2026-09-20T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "JIJ Programming Contest 2026AtCoder Beginner Contest 476",
+      "start": "2026-09-19T20:00:00.000Z",
+      "end": "2026-09-19T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-09-14T01:05:00.000Z",
+      "end": "2026-09-14T03:05:00.000Z",
+      "duration": 7200,
+      "id": 2264,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 071",
+      "start": "2026-09-13T18:00:00.000Z",
+      "end": "2026-09-13T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-09-12T22:35:00.000Z",
+      "end": "2026-09-13T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2262,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-09-12T22:35:00.000Z",
+      "end": "2026-09-13T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2263,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 475",
+      "start": "2026-09-12T20:00:00.000Z",
+      "end": "2026-09-12T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Educational Codeforces Round 194 (Rated for Div. 2)",
+      "start": "2026-09-08T22:35:00.000Z",
+      "end": "2026-09-09T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2260,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 474",
+      "start": "2026-09-06T12:10:00.000Z",
+      "end": "2026-09-06T13:50:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Advance",
+      "start": "2026-09-06T12:10:00.000Z",
+      "end": "2026-09-06T13:50:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 3)",
+      "start": "2026-09-05T22:35:00.000Z",
+      "end": "2026-09-06T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2259,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest-- 229",
+      "start": "2026-09-05T20:00:00.000Z",
+      "end": "2026-09-05T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 228",
+      "start": "2026-08-30T20:00:00.000Z",
+      "end": "2026-08-30T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-08-29T22:35:00.000Z",
+      "end": "2026-08-30T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2258,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 473",
+      "start": "2026-08-29T20:00:00.000Z",
+      "end": "2026-08-29T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "13th Asprova Programming ContestAtCoder Heuristic Contest 070",
+      "start": "2026-08-29T14:00:00.000Z",
+      "end": "2026-08-29T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 472",
+      "start": "2026-08-22T20:00:00.000Z",
+      "end": "2026-08-22T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-08-17T22:35:00.000Z",
+      "end": "2026-08-18T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2257,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 227",
+      "start": "2026-08-16T20:00:00.000Z",
+      "end": "2026-08-16T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 471",
+      "start": "2026-08-15T20:00:00.000Z",
+      "end": "2026-08-15T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "ICPC 2026 Online Challenge 1 powered by Huawei",
+      "start": "2026-08-14T19:00:00.000Z",
+      "end": "2026-08-28T19:00:00.000Z",
+      "duration": 1209600,
+      "id": 2251,
+      "type": "IOI",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-08-09T22:35:00.000Z",
+      "end": "2026-08-10T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2255,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-08-09T22:35:00.000Z",
+      "end": "2026-08-10T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2256,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Beginner Contest 226)",
+      "start": "2026-08-09T20:00:00.000Z",
+      "end": "2026-08-09T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
+      "start": "2026-08-09T20:00:00.000Z",
+      "end": "2026-08-09T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "JPRS Programming Contest 20262 (AtCoder Beginner Contest 470)",
+      "start": "2026-08-08T20:00:00.000Z",
+      "end": "2026-08-08T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-08-06T22:35:00.000Z",
+      "end": "2026-08-07T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2252,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Educational Codeforces Round 193 (Rated for Div. 2)",
+      "start": "2026-08-06T22:35:00.000Z",
+      "end": "2026-08-07T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2253,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 3)",
+      "start": "2026-08-04T22:35:00.000Z",
+      "end": "2026-08-05T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2254,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 469",
+      "start": "2026-08-01T20:00:00.000Z",
+      "end": "2026-08-01T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-08-01T19:35:00.000Z",
+      "end": "2026-08-01T21:35:00.000Z",
+      "duration": 7200,
+      "id": 2248,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
+      "start": "2026-07-31T18:00:00.000Z",
+      "end": "2026-08-10T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-07-26T22:35:00.000Z",
+      "end": "2026-07-27T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2249,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-07-26T22:35:00.000Z",
+      "end": "2026-07-27T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2250,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 468",
+      "start": "2026-07-25T20:00:00.000Z",
+      "end": "2026-07-25T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 225",
+      "start": "2026-07-19T20:00:00.000Z",
+      "end": "2026-07-19T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-07-18T22:35:00.000Z",
+      "end": "2026-07-19T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2247,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 467",
+      "start": "2026-07-18T20:00:00.000Z",
+      "end": "2026-07-18T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
+      "start": "2026-07-18T14:00:00.000Z",
+      "end": "2026-07-18T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+      "start": "2026-07-16T22:35:00.000Z",
+      "end": "2026-07-17T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2245,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-07-12T22:35:00.000Z",
+      "end": "2026-07-13T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2246,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest-- 224",
+      "start": "2026-07-12T20:00:00.000Z",
+      "end": "2026-07-12T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-290-Div.4】洛谷入门赛 #49",
+      "start": "2026-07-12T19:00:00.000Z",
+      "end": "2026-07-12T21:00:00.000Z",
+      "duration": 7200,
+      "id": 332884,
+      "luoguId": 332884,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2017 Qingdao R] ICPC 2017 区域赛青岛站重现赛",
+      "start": "2026-07-12T13:00:00.000Z",
+      "end": "2026-07-12T18:00:00.000Z",
+      "duration": 18000,
+      "id": 334256,
+      "luoguId": 334256,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 11,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 466",
+      "start": "2026-07-11T20:00:00.000Z",
+      "end": "2026-07-11T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 3)",
+      "start": "2026-07-10T22:35:00.000Z",
+      "end": "2026-07-11T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2244,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "World Tour Finals 2026 Algorithm",
+      "start": "2026-07-09T10:00:00.000Z",
+      "end": "2026-07-09T17:00:00.000Z",
+      "duration": 25200,
+      "source": "atcoder"
+    },
+    {
+      "title": "World Tour Finals 2026 AlgorithmOpen Contest",
+      "start": "2026-07-09T10:00:00.000Z",
+      "end": "2026-07-09T17:00:00.000Z",
+      "duration": 25200,
+      "source": "atcoder"
+    },
+    {
+      "title": "World Tour Finals 2026 Heuristic",
+      "start": "2026-07-07T08:00:00.000Z",
+      "end": "2026-07-08T18:00:00.000Z",
+      "duration": 122400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Educational Codeforces Round 192 (Rated for Div. 2)",
+      "start": "2026-07-06T22:35:00.000Z",
+      "end": "2026-07-07T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2242,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "Educational Codeforces Round 192 (Rated for Div. 2)",
+      "start": "2026-07-06T22:35:00.000Z",
+      "end": "2026-07-07T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2243,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "[ICPC2017 Shenyang R] ICPC 2017 区域赛沈阳站重现赛",
+      "start": "2026-07-05T13:00:00.000Z",
+      "end": "2026-07-05T18:00:00.000Z",
+      "duration": 18000,
+      "id": 334255,
+      "luoguId": 334255,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 13,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 465",
+      "start": "2026-07-04T20:00:00.000Z",
+      "end": "2026-07-04T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "LGR-288-Div 2 / lnOI Round 1",
+      "start": "2026-07-04T14:00:00.000Z",
+      "end": "2026-07-04T18:00:00.000Z",
+      "duration": 14400,
+      "id": 297106,
+      "luoguId": 297106,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 3)",
+      "start": "2026-06-30T22:35:00.000Z",
+      "end": "2026-07-01T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2241,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-06-28T22:35:00.000Z",
+      "end": "2026-06-29T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2238,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 223",
+      "start": "2026-06-28T20:00:00.000Z",
+      "end": "2026-06-28T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-S15】梦熊 S 组 · 凡尔赛 & DLESS Round 5（同步赛）",
+      "start": "2026-06-28T14:00:00.000Z",
+      "end": "2026-06-28T18:00:00.000Z",
+      "duration": 14400,
+      "id": 334639,
+      "luoguId": 334639,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-06-27T22:35:00.000Z",
+      "end": "2026-06-28T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2239,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-06-27T22:35:00.000Z",
+      "end": "2026-06-28T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2240,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Advance -- AtCoder Beginner Contest 464",
+      "start": "2026-06-27T20:00:00.000Z",
+      "end": "2026-06-27T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner Contest 464)",
+      "start": "2026-06-27T20:00:00.000Z",
+      "end": "2026-06-27T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "XRCOI Round 2",
+      "start": "2026-06-27T14:00:00.000Z",
+      "end": "2026-06-27T18:00:00.000Z",
+      "duration": 14400,
+      "id": 244960,
+      "luoguId": 244960,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 74228,
+        "name": "XRCOI出题组",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-289-Div.4】洛谷入门赛 #48",
+      "start": "2026-06-26T19:00:00.000Z",
+      "end": "2026-06-26T21:00:00.000Z",
+      "duration": 7200,
+      "id": 332926,
+      "luoguId": 332926,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 067",
+      "start": "2026-06-21T18:00:00.000Z",
+      "end": "2026-06-21T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "[SCCPC 2026] 2026 年四川省大学生竞赛重现赛",
+      "start": "2026-06-21T13:00:00.000Z",
+      "end": "2026-06-21T18:00:00.000Z",
+      "duration": 18000,
+      "id": 330334,
+      "luoguId": 330334,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 463",
+      "start": "2026-06-20T20:00:00.000Z",
+      "end": "2026-06-20T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-287-Div.3】洛谷基础赛 #36 &「NLOI」Round1",
+      "start": "2026-06-20T14:00:00.000Z",
+      "end": "2026-06-20T17:30:00.000Z",
+      "duration": 12600,
+      "id": 318072,
+      "luoguId": 318072,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "「LAOI」Round 18",
+      "start": "2026-06-19T13:00:00.000Z",
+      "end": "2026-06-19T18:00:00.000Z",
+      "duration": 18000,
+      "id": 265057,
+      "luoguId": 265057,
+      "method": 2,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 13,
+      "host": {
+        "id": 48237,
+        "name": "LAOI公开赛团",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+      "start": "2026-06-18T22:35:00.000Z",
+      "end": "2026-06-19T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2237,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 222",
+      "start": "2026-06-14T20:00:00.000Z",
+      "end": "2026-06-14T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "Japanese Student Championship 2026 Qualification (AtCoder Regular Contest 222)",
+      "start": "2026-06-14T20:00:00.000Z",
+      "end": "2026-06-14T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "2026年“胜意杯”华中地区高校第十九届程序设计邀请赛重现赛",
+      "start": "2026-06-14T13:00:00.000Z",
+      "end": "2026-06-14T18:00:00.000Z",
+      "duration": 18000,
+      "id": 330579,
+      "luoguId": 330579,
+      "method": 2,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 0,
+      "host": {
+        "id": 64500,
+        "name": "Burnside",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Conclusion Masters #4: LAOI-R13",
+      "start": "2026-06-14T08:00:00.000Z",
+      "end": "2026-06-14T12:00:00.000Z",
+      "duration": 14400,
+      "id": 201628,
+      "luoguId": 201628,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 48237,
+        "name": "LAOI公开赛团",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
+      "start": "2026-06-13T20:00:00.000Z",
+      "end": "2026-06-13T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-286-Div.3】洛谷基础赛 #35 & MierOI Round 2",
+      "start": "2026-06-13T14:00:00.000Z",
+      "end": "2026-06-13T17:30:00.000Z",
+      "duration": 12600,
+      "id": 324944,
+      "luoguId": 324944,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "[JLCPC 2026] 2026 年第 19 届吉林省大学生竞赛重现赛",
+      "start": "2026-06-13T13:00:00.000Z",
+      "end": "2026-06-13T18:00:00.000Z",
+      "duration": 18000,
+      "id": 330692,
+      "luoguId": 330692,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1103 (Div. 3)",
+      "start": "2026-06-12T22:35:00.000Z",
+      "end": "2026-06-13T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2236,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "Educational Codeforces Round 191 (Rated for Div. 2)",
+      "start": "2026-06-09T22:35:00.000Z",
+      "end": "2026-06-10T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2233,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-06-07T22:35:00.000Z",
+      "end": "2026-06-08T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2234,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-X29】梦熊 X 组 · 欧尼恩赛 2 & FeOI Round 6（同步赛）",
+      "start": "2026-06-07T14:00:00.000Z",
+      "end": "2026-06-07T18:30:00.000Z",
+      "duration": 16200,
+      "id": 329969,
+      "luoguId": 329969,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 461",
+      "start": "2026-06-06T20:00:00.000Z",
+      "end": "2026-06-06T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AFOI 2025 & AFO OI Round 1",
+      "start": "2026-06-06T13:00:00.000Z",
+      "end": "2026-06-06T17:30:00.000Z",
+      "duration": 16200,
+      "id": 305608,
+      "luoguId": 305608,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 7,
+      "host": {
+        "id": 122022,
+        "name": "AFO OI",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "[Xzy OI] Round 1 & ccb(?)",
+      "start": "2026-06-06T08:30:00.000Z",
+      "end": "2026-06-06T12:00:00.000Z",
+      "duration": 12600,
+      "id": 312073,
+      "luoguId": 312073,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 124307,
+        "name": "Xzy OI",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "测试赛",
+      "start": "2026-06-05T15:00:00.000Z",
+      "end": "2026-06-05T17:30:00.000Z",
+      "duration": 9000,
+      "id": 330903,
+      "luoguId": 330903,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": true,
+      "problemCount": 8,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest 221",
+      "start": "2026-05-31T20:00:00.000Z",
+      "end": "2026-05-31T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "2024 年“金山杯”华中地区高校第十八届程序设计邀请赛重现赛",
+      "start": "2026-05-31T13:00:00.000Z",
+      "end": "2026-05-31T18:00:00.000Z",
+      "duration": 18000,
+      "id": 326649,
+      "luoguId": 326649,
+      "method": 2,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 13,
+      "host": {
+        "id": 64500,
+        "name": "Burnside",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-05-30T22:35:00.000Z",
+      "end": "2026-05-31T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2232,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 460",
+      "start": "2026-05-30T20:00:00.000Z",
+      "end": "2026-05-30T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-285-Div.2】洛谷蓝桥杯国赛模拟赛 2026",
+      "start": "2026-05-30T14:00:00.000Z",
+      "end": "2026-05-30T18:00:00.000Z",
+      "duration": 14400,
+      "id": 326698,
+      "luoguId": 326698,
+      "method": 1,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J30】梦熊 J 组 · H₂O赛 & FDOI Round 1",
+      "start": "2026-05-30T09:00:00.000Z",
+      "end": "2026-05-30T12:00:00.000Z",
+      "duration": 10800,
+      "id": 327902,
+      "luoguId": 327902,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 066",
+      "start": "2026-05-29T19:00:00.000Z",
+      "end": "2026-06-08T18:00:00.000Z",
+      "duration": 860400,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 066",
+      "start": "2026-05-29T18:00:00.000Z",
+      "end": "2026-06-08T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Algo Beat Contest 008 &「WWOI」Round 3",
+      "start": "2026-05-24T14:00:00.000Z",
+      "end": "2026-05-24T18:00:00.000Z",
+      "duration": 14400,
+      "id": 324945,
+      "luoguId": 324945,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 91385,
+        "name": "Algo Beat Contest 出题组",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+      "start": "2026-05-23T22:35:00.000Z",
+      "end": "2026-05-24T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2229,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Tokio Marine  Nichido Fire Insurance Programming Contest 2026  (AtCoder Beginner Contest 459)",
+      "start": "2026-05-23T20:00:00.000Z",
+      "end": "2026-05-23T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-284-Div.4】洛谷入门赛 #47",
+      "start": "2026-05-22T19:00:00.000Z",
+      "end": "2026-05-22T21:00:00.000Z",
+      "duration": 7200,
+      "id": 326688,
+      "luoguId": 326688,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-05-21T22:35:00.000Z",
+      "end": "2026-05-22T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2231,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "start": "2026-05-18T22:35:00.000Z",
+      "end": "2026-05-19T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2230,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 220",
+      "start": "2026-05-17T20:00:00.000Z",
+      "end": "2026-05-17T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "『LYROI』Round 1",
+      "start": "2026-05-17T14:00:00.000Z",
+      "end": "2026-05-17T18:30:00.000Z",
+      "duration": 16200,
+      "id": 304379,
+      "luoguId": 304379,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 92226,
+        "name": "LYROI",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-05-16T22:35:00.000Z",
+      "end": "2026-05-17T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2228,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 458",
+      "start": "2026-05-16T20:00:00.000Z",
+      "end": "2026-05-16T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 065",
+      "start": "2026-05-16T14:00:00.000Z",
+      "end": "2026-05-16T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-S14】梦熊 S 组 · 羽毛赛 & KWOI Round 2（同步赛）",
+      "start": "2026-05-16T14:00:00.000Z",
+      "end": "2026-05-16T18:00:00.000Z",
+      "duration": 14400,
+      "id": 326643,
+      "luoguId": 326643,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "中山大学 2025 年程序设计竞赛校赛（重现赛）",
+      "start": "2026-05-16T13:00:00.000Z",
+      "end": "2026-05-16T18:00:00.000Z",
+      "duration": 18000,
+      "id": 323927,
+      "luoguId": 323927,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 14,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "SCPC 2026 Div3",
+      "start": "2026-05-16T12:30:00.000Z",
+      "end": "2026-05-16T15:30:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "SCPC 2026 Div1",
+      "start": "2026-05-16T12:00:00.000Z",
+      "end": "2026-05-16T16:30:00.000Z",
+      "duration": 16200,
+      "source": "atcoder"
+    },
+    {
+      "title": "SCPC 2026 Div2",
+      "start": "2026-05-16T12:00:00.000Z",
+      "end": "2026-05-16T16:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "「Spring OI」Round 1 & 春日清新赛",
+      "start": "2026-05-16T08:30:00.000Z",
+      "end": "2026-05-16T12:30:00.000Z",
+      "duration": 14400,
+      "id": 318187,
+      "luoguId": 318187,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 126316,
+        "name": "Spring OI",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest-- 219",
+      "start": "2026-05-10T20:00:00.000Z",
+      "end": "2026-05-10T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "西安交通大学 2026 年程序设计竞赛校赛（同步赛）",
+      "start": "2026-05-10T13:30:00.000Z",
+      "end": "2026-05-10T18:30:00.000Z",
+      "duration": 18000,
+      "id": 314922,
+      "luoguId": 314922,
+      "method": 2,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 0,
+      "host": {
+        "id": 79769,
+        "name": "XJTU",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "PolarisAI Programming Contest 2026AtCoder Beginner Contest 457",
+      "start": "2026-05-09T20:00:00.000Z",
+      "end": "2026-05-09T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-05-06T14:05:00.000Z",
+      "end": "2026-05-06T16:35:00.000Z",
+      "duration": 9000,
+      "id": 2223,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-05-06T14:05:00.000Z",
+      "end": "2026-05-06T16:35:00.000Z",
+      "duration": 9000,
+      "id": 2224,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Algo Beat Contest 005 & 「ZzzOI」Round 1",
+      "start": "2026-05-05T14:00:00.000Z",
+      "end": "2026-05-05T16:00:00.000Z",
+      "duration": 7200,
+      "id": 316306,
+      "luoguId": 316306,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 91385,
+        "name": "Algo Beat Contest 出题组",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Next DP Contest",
+      "start": "2026-05-05T12:00:00.000Z",
+      "end": "2026-05-05T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-265-Div.3】洛谷基础赛 #34 & YLLOI Round 4",
+      "start": "2026-05-04T14:00:00.000Z",
+      "end": "2026-05-04T17:30:00.000Z",
+      "duration": 12600,
+      "id": 274106,
+      "luoguId": 274106,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest 218",
+      "start": "2026-05-03T20:00:00.000Z",
+      "end": "2026-05-03T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-X28】梦熊 X 组 · 暴暴龙赛 & FAOI-R12（同步赛）",
+      "start": "2026-05-03T14:00:00.000Z",
+      "end": "2026-05-03T18:30:00.000Z",
+      "duration": 16200,
+      "id": 323598,
+      "luoguId": 323598,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 7,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 456",
+      "start": "2026-05-02T20:00:00.000Z",
+      "end": "2026-05-02T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Algo Beat Contest 004",
+      "start": "2026-05-02T15:00:00.000Z",
+      "end": "2026-05-02T17:00:00.000Z",
+      "duration": 7200,
+      "id": 314924,
+      "luoguId": 314924,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 7,
+      "host": {
+        "id": 91385,
+        "name": "Algo Beat Contest 出题组",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "华东理工大学 2026 年程序设计竞赛春季校赛（重现赛）",
+      "start": "2026-05-01T13:00:00.000Z",
+      "end": "2026-05-01T18:00:00.000Z",
+      "duration": 18000,
+      "id": 321841,
+      "luoguId": 321841,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 3)",
+      "start": "2026-04-30T22:35:00.000Z",
+      "end": "2026-05-01T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2227,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-04-28T22:35:00.000Z",
+      "end": "2026-04-29T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2226,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "JR WEST and ALGO ARTIS Programming Contest  (AtCoder Heuristic Contest 064)",
+      "start": "2026-04-26T14:00:00.000Z",
+      "end": "2026-04-26T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-280-Div.2】洛谷 4 月月赛 III & Diligent-OI Round 3",
+      "start": "2026-04-26T14:00:00.000Z",
+      "end": "2026-04-26T18:00:00.000Z",
+      "duration": 14400,
+      "id": 243061,
+      "luoguId": 243061,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-04-25T22:35:00.000Z",
+      "end": "2026-04-26T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2222,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Inc Programming Contest 2026 (AtCoder Beginner Contest 455)",
+      "start": "2026-04-25T20:00:00.000Z",
+      "end": "2026-04-25T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【Gensokyo OI Round 1】幻想乡的雨",
+      "start": "2026-04-25T14:00:00.000Z",
+      "end": "2026-04-25T18:00:00.000Z",
+      "duration": 14400,
+      "id": 276811,
+      "luoguId": 276811,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 113842,
+        "name": "Gensokyo OI 出题团队",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-04-23T22:35:00.000Z",
+      "end": "2026-04-24T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2213,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "start": "2026-04-21T22:35:00.000Z",
+      "end": "2026-04-22T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2225,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-281-Div.3】洛谷基础赛 #33 & ALFR Round 10 & WAOI Round 4.5",
+      "start": "2026-04-19T14:00:00.000Z",
+      "end": "2026-04-19T17:30:00.000Z",
+      "duration": 12600,
+      "id": 239510,
+      "luoguId": 239510,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 5,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "DSDOI Round 1",
+      "start": "2026-04-19T09:00:00.000Z",
+      "end": "2026-04-19T12:00:00.000Z",
+      "duration": 10800,
+      "id": 285525,
+      "luoguId": 285525,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 116548,
+        "name": "DSDOI",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Keysight Technologies Programming ContestAtCoder Beginner Contest 454",
+      "start": "2026-04-18T20:00:00.000Z",
+      "end": "2026-04-18T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-282-Div.2】洛谷 4 月月赛 II & 蓬莱人形 Round 2",
+      "start": "2026-04-18T14:00:00.000Z",
+      "end": "2026-04-18T18:00:00.000Z",
+      "duration": 14400,
+      "id": 319865,
+      "luoguId": 319865,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-282-Div.1】洛谷 4 月月赛 II & 蓬莱人形 Round 2",
+      "start": "2026-04-18T14:00:00.000Z",
+      "end": "2026-04-18T18:00:00.000Z",
+      "duration": 14400,
+      "id": 276319,
+      "luoguId": 276319,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J29】梦熊 J 组 · 百香果赛",
+      "start": "2026-04-18T08:30:00.000Z",
+      "end": "2026-04-18T12:00:00.000Z",
+      "duration": 12600,
+      "id": 321416,
+      "luoguId": 321416,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-282-Div.4】洛谷入门赛 #46",
+      "start": "2026-04-17T19:00:00.000Z",
+      "end": "2026-04-17T21:00:00.000Z",
+      "duration": 7200,
+      "id": 320476,
+      "luoguId": 320476,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2023 Jinan R] ICPC 2023 区域赛济南站重现赛",
+      "start": "2026-04-14T13:00:00.000Z",
+      "end": "2026-04-14T18:00:00.000Z",
+      "duration": 18000,
+      "id": 320257,
+      "luoguId": 320257,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 13,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-04-13T22:35:00.000Z",
+      "end": "2026-04-14T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2219,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-04-13T22:35:00.000Z",
+      "end": "2026-04-14T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2220,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "蓝桥杯省赛自测（Java B 组）",
+      "start": "2026-04-12T15:30:00.000Z",
+      "end": "2026-04-19T15:30:00.000Z",
+      "duration": 604800,
+      "id": 321042,
+      "luoguId": 321042,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 8,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-279-Div.3】洛谷基础赛 #32 & MierOI Round 1",
+      "start": "2026-04-12T14:00:00.000Z",
+      "end": "2026-04-12T17:30:00.000Z",
+      "duration": 12600,
+      "id": 309815,
+      "luoguId": 309815,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 5,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "蓝桥杯省赛自测（Python B 组）",
+      "start": "2026-04-12T14:00:00.000Z",
+      "end": "2026-04-19T14:30:00.000Z",
+      "duration": 606600,
+      "id": 321016,
+      "luoguId": 321016,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 8,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-04-12T13:35:00.000Z",
+      "end": "2026-04-12T16:35:00.000Z",
+      "duration": 10800,
+      "id": 2215,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-04-12T13:35:00.000Z",
+      "end": "2026-04-12T16:35:00.000Z",
+      "duration": 10800,
+      "id": 2216,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "DSTOI Round 0",
+      "start": "2026-04-12T09:00:00.000Z",
+      "end": "2026-04-12T11:30:00.000Z",
+      "duration": 9000,
+      "id": 255208,
+      "luoguId": 255208,
+      "method": 4,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 7,
+      "host": {
+        "id": 710811,
+        "name": "MoLing_qwq",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 453",
+      "start": "2026-04-11T20:00:00.000Z",
+      "end": "2026-04-11T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Midnight Code Cup 2026 Qualification Round",
+      "start": "2026-04-11T20:00:00.000Z",
+      "end": "2026-04-11T23:00:00.000Z",
+      "duration": 10800,
+      "id": 2186,
+      "type": "IOI",
+      "source": "codeforces"
+    },
+    {
+      "title": "蓝桥杯省赛自测（CA 组）",
+      "start": "2026-04-11T14:30:00.000Z",
+      "end": "2026-04-18T14:30:00.000Z",
+      "duration": 604800,
+      "id": 320702,
+      "luoguId": 320702,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 8,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X27】梦熊 X 组 · 洪水赛 & Cyoi Round 2（同步赛）",
+      "start": "2026-04-11T14:00:00.000Z",
+      "end": "2026-04-11T18:30:00.000Z",
+      "duration": 16200,
+      "id": 319924,
+      "luoguId": 319924,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "蓝桥杯省赛自测（CB 组）",
+      "start": "2026-04-11T13:05:00.000Z",
+      "end": "2026-04-18T13:00:00.000Z",
+      "duration": 604500,
+      "id": 320659,
+      "luoguId": 320659,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 8,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "华东理工大学 2025 年程序设计竞赛校赛（重现赛）",
+      "start": "2026-04-09T13:00:00.000Z",
+      "end": "2026-04-09T17:00:00.000Z",
+      "duration": 14400,
+      "id": 319886,
+      "luoguId": 319886,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 15,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-04-07T22:35:00.000Z",
+      "end": "2026-04-08T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2217,
+      "type": "CF",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "蓝桥杯考前复习冲刺",
+      "start": "2026-04-07T11:00:00.000Z",
+      "end": "2026-04-12T13:00:00.000Z",
+      "duration": 439200,
+      "id": 319883,
+      "luoguId": 319883,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 26,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-S13】梦熊 S 组 · 清雨赛（同步赛）",
+      "start": "2026-04-06T14:00:00.000Z",
+      "end": "2026-04-06T18:00:00.000Z",
+      "duration": 14400,
+      "id": 319140,
+      "luoguId": 319140,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 58132,
+        "name": "梦熊官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest 217",
+      "start": "2026-04-05T20:00:00.000Z",
+      "end": "2026-04-05T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-277-Div.2】洛谷 4 月月赛 I &『LBA-OI』Round 1",
+      "start": "2026-04-05T14:00:00.000Z",
+      "end": "2026-04-05T18:00:00.000Z",
+      "duration": 14400,
+      "id": 278013,
+      "luoguId": 278013,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 4)",
+      "start": "2026-04-04T22:35:00.000Z",
+      "end": "2026-04-05T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2218,
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 452",
+      "start": "2026-04-04T20:00:00.000Z",
+      "end": "2026-04-04T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Murasame's April Fools Contest (愚人节比赛) 2026",
+      "start": "2026-04-04T18:00:00.000Z",
+      "end": "2026-04-26T00:00:00.000Z",
+      "duration": 1836000,
+      "id": 317826,
+      "luoguId": 317826,
+      "method": 4,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 16,
+      "host": {
+        "id": 682739,
+        "name": "CuteMurasame",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "L0_0 Round 1",
+      "start": "2026-04-04T16:00:00.000Z",
+      "end": "2026-04-04T20:00:00.000Z",
+      "duration": 14400,
+      "id": 301031,
+      "luoguId": 301031,
+      "method": 4,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1476569,
+        "name": "L0_0",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "o.OI Round -1",
+      "start": "2026-04-04T14:00:00.000Z",
+      "end": "2026-04-04T15:30:00.000Z",
+      "duration": 5400,
+      "id": 296386,
+      "source": "luogu"
+    },
+    {
+      "title": "中国科学技术大学 2026 年程序设计竞赛校赛（重现赛）",
+      "start": "2026-04-04T12:30:00.000Z",
+      "end": "2026-04-04T17:30:00.000Z",
+      "duration": 18000,
+      "id": 318973,
+      "luoguId": 318973,
+      "method": 2,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 14,
+      "host": {
+        "id": 102255,
+        "name": "USTCPC 出题组",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "o.OI Round -1 - EX Problem",
+      "start": "2026-04-03T20:00:00.000Z",
+      "end": "2026-04-05T20:00:00.000Z",
+      "duration": 172800,
+      "id": 311857,
+      "luoguId": 311857,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 1,
+      "host": {
+        "id": 92730,
+        "name": "o.OI 出题组",
+        "isTeam": true,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 063",
+      "start": "2026-04-03T18:00:00.000Z",
+      "end": "2026-04-13T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "April Fools Day Contest 2026",
+      "start": "2026-04-01T22:35:00.000Z",
+      "end": "2026-04-02T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2214,
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "难一点的愚人节赛",
+      "start": "2026-04-01T20:00:00.000Z",
+      "end": "2026-04-06T19:59:00.000Z",
+      "duration": 431940,
+      "id": 318010,
+      "luoguId": 318010,
+      "method": 4,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 10,
+      "host": {
+        "id": 188950,
+        "name": "AzusaShirasu",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "组队测试 2.0",
+      "start": "2026-04-01T13:00:00.000Z",
+      "end": "2026-04-01T18:00:00.000Z",
+      "duration": 18000,
+      "id": 318194,
+      "luoguId": 318194,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": true,
+      "problemCount": 13,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Grand Contest 077",
+      "start": "2026-03-29T20:00:00.000Z",
+      "end": "2026-03-29T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "RedStone OI Round 10",
+      "start": "2026-03-29T14:00:00.000Z",
+      "end": "2026-03-29T17:00:00.000Z",
+      "duration": 10800,
+      "id": 307651,
+      "luoguId": 307651,
+      "method": 4,
+      "visibility": 2,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 5,
+      "host": {
+        "id": 78367,
+        "name": "RedStone OI 出题组",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-03-28T22:35:00.000Z",
+      "end": "2026-03-29T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2210,
+      "type": "CF",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-03-28T22:35:00.000Z",
+      "end": "2026-03-29T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2211,
+      "type": "CF",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 451",
+      "start": "2026-03-28T20:00:00.000Z",
+      "end": "2026-03-28T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-276-Div.3】洛谷蓝桥杯省赛模拟赛 2026",
+      "start": "2026-03-28T14:00:00.000Z",
+      "end": "2026-03-28T18:00:00.000Z",
+      "duration": 14400,
+      "id": 314564,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-(-28)】2026 年洛谷愚人节比赛",
+      "start": "2026-03-28T09:00:00.000Z",
+      "end": "2026-03-29T18:00:00.000Z",
+      "duration": 118800,
+      "id": 301325,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-278-Div.4】洛谷入门赛 #45",
+      "start": "2026-03-27T19:00:00.000Z",
+      "end": "2026-03-27T21:00:00.000Z",
+      "duration": 7200,
+      "id": 316038,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest 216",
+      "start": "2026-03-22T20:00:00.000Z",
+      "end": "2026-03-22T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-X26】梦熊 X 组 · 鱼鱼蒸赛 & Cfz Round 7（同步赛）",
+      "start": "2026-03-22T14:00:00.000Z",
+      "end": "2026-03-22T18:30:00.000Z",
+      "duration": 16200,
+      "id": 315639,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-03-21T22:35:00.000Z",
+      "end": "2026-03-22T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2209,
+      "type": "CF",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 450",
+      "start": "2026-03-21T20:00:00.000Z",
+      "end": "2026-03-21T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-274-Div.2】洛谷 3 月月赛 II & 『LBA-OI』Round 3",
+      "start": "2026-03-21T14:00:00.000Z",
+      "end": "2026-03-21T18:00:00.000Z",
+      "duration": 14400,
+      "id": 293373,
+      "source": "luogu"
+    },
+    {
+      "title": "AOIのApril Fools Contest 2026",
+      "start": "2026-03-21T00:00:00.000Z",
+      "end": "2026-04-06T23:59:00.000Z",
+      "duration": 1468740,
+      "id": 315100,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "start": "2026-03-16T22:35:00.000Z",
+      "end": "2026-03-17T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2204,
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-J25】梦熊 J 组 · 及普赛 & Cfz Round 8（同步赛）",
+      "start": "2026-03-15T14:00:00.000Z",
+      "end": "2026-03-15T17:30:00.000Z",
+      "duration": 12600,
+      "id": 314346,
+      "source": "luogu"
+    },
+    {
+      "title": "World Artificial Intelligence Programming Contest",
+      "start": "2026-03-15T11:00:00.000Z",
+      "end": "2026-03-15T15:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-03-14T22:35:00.000Z",
+      "end": "2026-03-15T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2208,
+      "type": "CF",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 449",
+      "start": "2026-03-14T20:00:00.000Z",
+      "end": "2026-03-14T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "2026 AtCoder Heuristic Contest 062",
+      "start": "2026-03-14T14:00:00.000Z",
+      "end": "2026-03-14T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
+      "start": "2026-03-14T14:00:00.000Z",
+      "end": "2026-03-14T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "『1&0』OI Round 1",
+      "start": "2026-03-14T14:00:00.000Z",
+      "end": "2026-03-14T18:00:00.000Z",
+      "duration": 14400,
+      "id": 300998,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+      "start": "2026-03-08T22:35:00.000Z",
+      "end": "2026-03-09T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2207,
+      "type": "CF",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "start": "2026-03-08T09:45:00.000Z",
+      "end": "2026-03-08T14:45:00.000Z",
+      "duration": 18000,
+      "id": 2206,
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 448",
+      "start": "2026-03-07T20:00:00.000Z",
+      "end": "2026-03-07T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "KTSC 2026 R2 Unofficial Mirror",
+      "start": "2026-03-04T14:00:00.000Z",
+      "end": "2026-03-04T19:00:00.000Z",
+      "duration": 18000,
+      "id": 311761,
+      "source": "luogu"
+    },
+    {
+      "title": "KTSC 2026 R1 Unofficial Mirror",
+      "start": "2026-03-03T14:00:00.000Z",
+      "end": "2026-03-03T19:00:00.000Z",
+      "duration": 18000,
+      "id": 310905,
+      "source": "luogu"
+    },
+    {
+      "title": "Kotlin Heroes: Episode 14",
+      "start": "2026-03-02T22:35:00.000Z",
+      "end": "2026-03-03T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2199,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "[CCPC 2025 哈尔滨站] CCPC 2025 分站赛哈尔滨站重现赛",
+      "start": "2026-03-02T13:00:00.000Z",
+      "end": "2026-03-02T18:00:00.000Z",
+      "duration": 18000,
+      "id": 312041,
+      "source": "luogu"
+    },
+    {
+      "title": "2026 省选赛前模板赛",
+      "start": "2026-03-02T08:00:00.000Z",
+      "end": "2026-03-08T13:00:00.000Z",
+      "duration": 536400,
+      "id": 312809,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-273-Div.1】洛谷 3 月月赛 I & NtF Round 3",
+      "start": "2026-03-01T14:00:00.000Z",
+      "end": "2026-03-01T18:00:00.000Z",
+      "duration": 14400,
+      "id": 309087,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-273-Div.2】洛谷 3 月月赛 I & NtF Round 3",
+      "start": "2026-03-01T14:00:00.000Z",
+      "end": "2026-03-01T18:00:00.000Z",
+      "duration": 14400,
+      "id": 309086,
+      "source": "luogu"
+    },
+    {
+      "title": "--",
+      "start": "2026-03-01T12:00:00.000Z",
+      "end": "2026-03-01T18:00:00.000Z",
+      "duration": 21600,
+      "source": "atcoder"
+    },
+    {
+      "title": "The 3rd Masters Championship-qual-",
+      "start": "2026-03-01T12:00:00.000Z",
+      "end": "2026-03-01T18:00:00.000Z",
+      "duration": 21600,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 447",
+      "start": "2026-02-28T20:00:00.000Z",
+      "end": "2026-02-28T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
+      "start": "2026-02-28T14:00:00.000Z",
+      "end": "2026-02-28T18:00:00.000Z",
+      "duration": 14400,
+      "id": 245434,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1084 (Div. 3)",
+      "start": "2026-02-27T22:35:00.000Z",
+      "end": "2026-02-28T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2200,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-275-Div.4】洛谷入门赛 #44",
+      "start": "2026-02-27T19:00:00.000Z",
+      "end": "2026-02-27T21:00:00.000Z",
+      "duration": 7200,
+      "id": 311027,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1083 (Div. 2)",
+      "start": "2026-02-26T22:35:00.000Z",
+      "end": "2026-02-27T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2205,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
+      "start": "2026-02-26T14:00:00.000Z",
+      "end": "2026-02-26T18:30:00.000Z",
+      "duration": 16200,
+      "id": 311071,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 187 (Rated for Div. 2)",
+      "start": "2026-02-25T22:35:00.000Z",
+      "end": "2026-02-26T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2203,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
+      "start": "2026-02-25T14:00:00.000Z",
+      "end": "2026-02-25T18:00:00.000Z",
+      "duration": 14400,
+      "id": 305773,
+      "source": "luogu"
+    },
+    {
+      "title": "「DBOI」Round -1",
+      "start": "2026-02-24T13:00:00.000Z",
+      "end": "2026-02-24T18:30:00.000Z",
+      "duration": 19800,
+      "id": 273961,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1082 (Div. 1)",
+      "start": "2026-02-23T22:35:00.000Z",
+      "end": "2026-02-24T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2201,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1082 (Div. 2)",
+      "start": "2026-02-23T22:35:00.000Z",
+      "end": "2026-02-24T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2202,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Construction Masters：yrOI R1",
+      "start": "2026-02-23T14:30:00.000Z",
+      "end": "2026-02-23T18:30:00.000Z",
+      "duration": 14400,
+      "id": 305992,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest 215",
+      "start": "2026-02-22T20:00:00.000Z",
+      "end": "2026-02-22T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
+      "start": "2026-02-22T14:00:00.000Z",
+      "end": "2026-02-22T18:00:00.000Z",
+      "duration": 14400,
+      "id": 251331,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1081 (Div. 2)",
+      "start": "2026-02-21T22:35:00.000Z",
+      "end": "2026-02-22T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2192,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Kotlin Heroes: Practice 14",
+      "start": "2026-02-21T22:30:00.000Z",
+      "end": "2026-03-02T22:30:00.000Z",
+      "duration": 777600,
+      "id": 2198,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder  Engineer Guild  AC27　AtCoder Beginner Contest 446",
+      "start": "2026-02-21T20:00:00.000Z",
+      "end": "2026-02-21T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 446",
+      "start": "2026-02-21T20:00:00.000Z",
+      "end": "2026-02-21T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
+      "start": "2026-02-21T14:00:00.000Z",
+      "end": "2026-02-21T18:30:00.000Z",
+      "duration": 16200,
+      "id": 299754,
+      "source": "luogu"
+    },
+    {
+      "title": "FeSo4OI Long Round #1 春节欢乐赛",
+      "start": "2026-02-19T08:00:00.000Z",
+      "end": "2026-02-21T20:00:00.000Z",
+      "duration": 216000,
+      "id": 305706,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
+      "start": "2026-02-16T20:30:00.000Z",
+      "end": "2026-02-17T00:00:00.000Z",
+      "duration": 12600,
+      "id": 300994,
+      "source": "luogu"
+    },
+    {
+      "title": "「LCOI」Round 2 & 除夕赛",
+      "start": "2026-02-16T14:00:00.000Z",
+      "end": "2026-02-16T16:30:00.000Z",
+      "duration": 9000,
+      "id": 308153,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1080 (Div. 3)",
+      "start": "2026-02-15T22:45:00.000Z",
+      "end": "2026-02-16T01:15:00.000Z",
+      "duration": 9000,
+      "id": 2195,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "RedStone OI Round 1",
+      "start": "2026-02-15T14:00:00.000Z",
+      "end": "2026-02-15T18:00:00.000Z",
+      "duration": 14400,
+      "id": 222594,
+      "source": "luogu"
+    },
+    {
+      "title": "2025",
+      "start": "2026-02-15T12:00:00.000Z",
+      "end": "2026-02-15T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 445",
+      "start": "2026-02-14T20:00:00.000Z",
+      "end": "2026-02-14T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
+      "start": "2026-02-14T14:00:00.000Z",
+      "end": "2026-02-14T18:30:00.000Z",
+      "duration": 16200,
+      "id": 309581,
+      "source": "luogu"
+    },
+    {
+      "title": "UTPC 2025",
+      "start": "2026-02-14T12:00:00.000Z",
+      "end": "2026-02-14T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "NFC-OI Round 1 & 情人节赛",
+      "start": "2026-02-14T08:30:00.000Z",
+      "end": "2026-02-14T12:00:00.000Z",
+      "duration": 12600,
+      "id": 293448,
+      "source": "luogu"
+    },
+    {
+      "title": "THIRD  2026 AtCoder Heuristic Contest 061",
+      "start": "2026-02-13T18:00:00.000Z",
+      "end": "2026-02-23T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "THIRD Programming Contest 2026AtCoder Heuristic Contest 061",
+      "start": "2026-02-13T18:00:00.000Z",
+      "end": "2026-02-23T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-264-Div.3】洛谷基础赛 #30 & YLLOI Round 3",
+      "start": "2026-02-12T14:00:00.000Z",
+      "end": "2026-02-12T17:30:00.000Z",
+      "duration": 12600,
+      "id": 273960,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1079 (Div. 1)",
+      "start": "2026-02-11T22:35:00.000Z",
+      "end": "2026-02-12T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2196,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1079 (Div. 2)",
+      "start": "2026-02-11T22:35:00.000Z",
+      "end": "2026-02-12T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2197,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1",
+      "start": "2026-02-11T14:00:00.000Z",
+      "end": "2026-02-11T18:00:00.000Z",
+      "duration": 14400,
+      "id": 282947,
+      "source": "luogu"
+    },
+    {
+      "title": "NOSOI Round 1",
+      "start": "2026-02-10T14:00:00.000Z",
+      "end": "2026-02-10T18:00:00.000Z",
+      "duration": 14400,
+      "id": 303869,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Regular Contest 214",
+      "start": "2026-02-08T20:00:00.000Z",
+      "end": "2026-02-08T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round 1078 (Div. 2)",
+      "start": "2026-02-08T17:05:00.000Z",
+      "end": "2026-02-08T19:05:00.000Z",
+      "duration": 7200,
+      "id": 2194,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3",
+      "start": "2026-02-08T14:00:00.000Z",
+      "end": "2026-02-08T18:00:00.000Z",
+      "duration": 14400,
+      "id": 236252,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 444",
+      "start": "2026-02-07T20:00:00.000Z",
+      "end": "2026-02-07T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Google HashCode 启发式问题测试 I",
+      "start": "2026-02-07T19:00:00.000Z",
+      "end": "2026-02-11T19:00:00.000Z",
+      "duration": 345600,
+      "id": 309179,
+      "source": "luogu"
+    },
+    {
+      "title": "「LCOI」Round 1",
+      "start": "2026-02-07T14:00:00.000Z",
+      "end": "2026-02-07T18:00:00.000Z",
+      "duration": 14400,
+      "id": 274734,
+      "source": "luogu"
+    },
+    {
+      "title": "RECRUIT  2026AtCoder Heuristic Contest 060",
+      "start": "2026-02-01T18:00:00.000Z",
+      "end": "2026-02-01T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+      "start": "2026-02-01T18:00:00.000Z",
+      "end": "2026-02-01T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "JOI 20252026",
+      "start": "2026-02-01T12:00:00.000Z",
+      "end": "2026-02-01T16:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "2026AtCoder Beginner Contest 443",
+      "start": "2026-01-31T20:00:00.000Z",
+      "end": "2026-01-31T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Denso Create Programming Contest 2026AtCoder Beginner Contest 443",
+      "start": "2026-01-31T20:00:00.000Z",
+      "end": "2026-01-31T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-263-Div.4】洛谷入门赛 #43",
+      "start": "2026-01-30T19:00:00.000Z",
+      "end": "2026-01-30T21:00:00.000Z",
+      "duration": 7200,
+      "id": 304401,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1077 (Div. 1)",
+      "start": "2026-01-29T22:35:00.000Z",
+      "end": "2026-01-30T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2187,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1077 (Div. 2)",
+      "start": "2026-01-29T22:35:00.000Z",
+      "end": "2026-01-30T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2188,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "嘟嘟哒哒大作战",
+      "start": "2026-01-29T18:00:00.000Z",
+      "end": "2026-01-29T22:00:00.000Z",
+      "duration": 14400,
+      "id": 304744,
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2024 Chengdu R] ICPC 2024 区域赛成都站重现赛",
+      "start": "2026-01-26T13:00:00.000Z",
+      "end": "2026-01-26T18:00:00.000Z",
+      "duration": 18000,
+      "id": 305336,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1076 (Div. 3)",
+      "start": "2026-01-25T22:35:00.000Z",
+      "end": "2026-01-26T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2193,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 213 (Div 1)",
+      "start": "2026-01-25T20:00:00.000Z",
+      "end": "2026-01-25T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "chaynOI Round 2",
+      "start": "2026-01-25T14:00:00.000Z",
+      "end": "2026-01-25T18:00:00.000Z",
+      "duration": 14400,
+      "id": 259953,
+      "source": "luogu"
+    },
+    {
+      "title": "JPRS20261AtCoder Beginner Contest 442",
+      "start": "2026-01-24T20:00:00.000Z",
+      "end": "2026-01-24T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "JPRS Programming Contest 20261 (AtCoder Beginner Contest 442)",
+      "start": "2026-01-24T20:00:00.000Z",
+      "end": "2026-01-24T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "洛谷 2025 年度试题推荐选集",
+      "start": "2026-01-24T17:00:00.000Z",
+      "end": "2026-02-04T17:00:00.000Z",
+      "duration": 950400,
+      "id": 305403,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
+      "start": "2026-01-24T14:00:00.000Z",
+      "end": "2026-01-24T18:00:00.000Z",
+      "duration": 14400,
+      "id": 266133,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1075 (Div. 2)",
+      "start": "2026-01-23T22:35:00.000Z",
+      "end": "2026-01-24T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2189,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1074 (Div. 4)",
+      "start": "2026-01-18T22:35:00.000Z",
+      "end": "2026-01-19T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2185,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-262-Div.2】洛谷 1 月月赛 III",
+      "start": "2026-01-18T14:00:00.000Z",
+      "end": "2026-01-18T18:00:00.000Z",
+      "duration": 14400,
+      "id": 302393,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-262-Div.1】洛谷 1 月月赛 III",
+      "start": "2026-01-18T14:00:00.000Z",
+      "end": "2026-01-18T18:00:00.000Z",
+      "duration": 14400,
+      "id": 302392,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1073 (Div. 1)",
+      "start": "2026-01-17T22:35:00.000Z",
+      "end": "2026-01-18T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2190,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1073 (Div. 2)",
+      "start": "2026-01-17T22:35:00.000Z",
+      "end": "2026-01-18T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2191,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+      "start": "2026-01-17T20:00:00.000Z",
+      "end": "2026-01-17T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "『GTOI』Round 2",
+      "start": "2026-01-17T14:00:00.000Z",
+      "end": "2026-01-17T18:00:00.000Z",
+      "duration": 14400,
+      "id": 298257,
+      "source": "luogu"
+    },
+    {
+      "title": "『LHB-OI』Round 1",
+      "start": "2026-01-17T08:00:00.000Z",
+      "end": "2026-01-17T12:00:00.000Z",
+      "duration": 14400,
+      "id": 302723,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1072 (Div. 3)",
+      "start": "2026-01-12T22:35:00.000Z",
+      "end": "2026-01-13T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2184,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 212 (Div 2)",
+      "start": "2026-01-11T20:00:00.000Z",
+      "end": "2026-01-11T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "『LBA-OI』Round 2",
+      "start": "2026-01-11T08:30:00.000Z",
+      "end": "2026-01-11T12:30:00.000Z",
+      "duration": 14400,
+      "id": 292354,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 440 (Promotion of Engineer Guild Fes)",
+      "start": "2026-01-10T20:00:00.000Z",
+      "end": "2026-01-10T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 440",
+      "start": "2026-01-10T20:00:00.000Z",
+      "end": "2026-01-10T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1",
+      "start": "2026-01-10T14:00:00.000Z",
+      "end": "2026-01-10T18:00:00.000Z",
+      "duration": 14400,
+      "id": 280819,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 059",
+      "start": "2026-01-10T14:00:00.000Z",
+      "end": "2026-01-10T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Hello 2026",
+      "start": "2026-01-07T22:35:00.000Z",
+      "end": "2026-01-08T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2183,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 439Promotion of AtCoderJobs",
+      "start": "2026-01-03T20:00:00.000Z",
+      "end": "2026-01-03T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 439",
+      "start": "2026-01-03T20:00:00.000Z",
+      "end": "2026-01-03T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-257-Div.2】洛谷 1 月月赛 I & ffbb OI round 1",
+      "start": "2026-01-03T14:00:00.000Z",
+      "end": "2026-01-03T18:00:00.000Z",
+      "duration": 14400,
+      "id": 226658,
+      "source": "luogu"
+    },
+    {
+      "title": "GenshinOI Round 7",
+      "start": "2026-01-02T13:30:00.000Z",
+      "end": "2026-01-02T17:30:00.000Z",
+      "duration": 14400,
+      "id": 261472,
+      "source": "luogu"
+    },
+    {
+      "title": "GenshinOI Round 6",
+      "start": "2026-01-01T14:00:00.000Z",
+      "end": "2026-01-01T17:00:00.000Z",
+      "duration": 10800,
+      "id": 261469,
+      "source": "luogu"
+    }
+  ]
+}

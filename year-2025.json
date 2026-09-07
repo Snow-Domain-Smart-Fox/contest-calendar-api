@@ -1,0 +1,3536 @@
+{
+  "year": 2025,
+  "generated_at": "2026-09-07T08:48:15.053Z",
+  "total": 416,
+  "by_source": {
+    "luogu": 243,
+    "atcoder": 50,
+    "codeforces": 123
+  },
+  "contests": [
+    {
+      "title": "【LGR-260-Div.1+2】洛谷 12 月月赛 II & FAOI R10: 2025-2026 跨年赛",
+      "start": "2025-12-31T19:30:00.000Z",
+      "end": "2026-01-01T00:30:00.000Z",
+      "duration": 18000,
+      "id": 251472,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 186 (Rated for Div. 2)",
+      "start": "2025-12-29T22:35:00.000Z",
+      "end": "2025-12-30T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2182,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Grand Contest 076",
+      "start": "2025-12-28T20:00:00.000Z",
+      "end": "2025-12-28T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-256-Div.3】洛谷基础赛 #29 & QFOI Round 3",
+      "start": "2025-12-28T14:00:00.000Z",
+      "end": "2025-12-28T17:30:00.000Z",
+      "duration": 12600,
+      "id": 256235,
+      "source": "luogu"
+    },
+    {
+      "title": "Good Bye 2025",
+      "start": "2025-12-27T22:35:00.000Z",
+      "end": "2025-12-28T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2178,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 438",
+      "start": "2025-12-27T20:00:00.000Z",
+      "end": "2025-12-27T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-259-Div.4】洛谷入门赛 #42",
+      "start": "2025-12-26T19:00:00.000Z",
+      "end": "2025-12-26T21:00:00.000Z",
+      "duration": 7200,
+      "id": 298165,
+      "source": "luogu"
+    },
+    {
+      "title": "ICPC 2025 Online Winter Challenge powered by Huawei",
+      "start": "2025-12-26T19:00:00.000Z",
+      "end": "2026-01-11T19:00:00.000Z",
+      "duration": 1382400,
+      "id": 2177,
+      "type": "IOI",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Xmas Contest 2025",
+      "start": "2025-12-24T18:00:00.000Z",
+      "end": "2025-12-24T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round 1071 (Div. 3)",
+      "start": "2025-12-23T22:45:00.000Z",
+      "end": "2025-12-24T01:15:00.000Z",
+      "duration": 9000,
+      "id": 2179,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Grand Contest 075",
+      "start": "2025-12-21T20:00:00.000Z",
+      "end": "2025-12-21T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-255-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1",
+      "start": "2025-12-21T14:00:00.000Z",
+      "end": "2025-12-21T18:00:00.000Z",
+      "duration": 14400,
+      "id": 276342,
+      "source": "luogu"
+    },
+    {
+      "title": "2025 AtCoder Beginner Contest 437",
+      "start": "2025-12-20T20:00:00.000Z",
+      "end": "2025-12-20T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
+      "start": "2025-12-20T20:00:00.000Z",
+      "end": "2025-12-20T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "[CCPC 2024 哈尔滨站] CCPC 2024 分站赛哈尔滨站重现赛",
+      "start": "2025-12-20T13:00:00.000Z",
+      "end": "2025-12-20T18:00:00.000Z",
+      "duration": 18000,
+      "id": 298025,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+      "start": "2025-12-19T22:35:00.000Z",
+      "end": "2025-12-20T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2180,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "JOI 2025/2026 二次予選 Unofficial Mirror",
+      "start": "2025-12-19T19:00:00.000Z",
+      "end": "2025-12-19T22:00:00.000Z",
+      "duration": 10800,
+      "id": 298530,
+      "source": "luogu"
+    },
+    {
+      "title": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "start": "2025-12-17T16:05:00.000Z",
+      "end": "2025-12-17T21:05:00.000Z",
+      "duration": 18000,
+      "id": 2181,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "COCI 2025/2026 #3 Unofficial Mirror",
+      "start": "2025-12-17T15:00:00.000Z",
+      "end": "2025-12-17T18:00:00.000Z",
+      "duration": 10800,
+      "id": 296955,
+      "source": "luogu"
+    },
+    {
+      "title": "Opoi 2025 div.2",
+      "start": "2025-12-14T14:30:00.000Z",
+      "end": "2025-12-14T18:30:00.000Z",
+      "duration": 14400,
+      "id": 194087,
+      "source": "luogu"
+    },
+    {
+      "title": "Opoi 2025 div.1",
+      "start": "2025-12-14T14:30:00.000Z",
+      "end": "2025-12-14T18:30:00.000Z",
+      "duration": 14400,
+      "id": 194086,
+      "source": "luogu"
+    },
+    {
+      "title": "ALGO ARTIS 2025 AtCoder Heuristic Contest 058",
+      "start": "2025-12-14T14:00:00.000Z",
+      "end": "2025-12-14T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "ALGO ARTIS Programming Contest 2025 DecemberAtCoder Heuristic Contest 058",
+      "start": "2025-12-14T14:00:00.000Z",
+      "end": "2025-12-14T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "东北大学秦皇岛分校第十三届“图灵杯”程序设计竞赛",
+      "start": "2025-12-14T11:30:00.000Z",
+      "end": "2025-12-14T16:30:00.000Z",
+      "duration": 18000,
+      "id": 296933,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 436",
+      "start": "2025-12-13T20:00:00.000Z",
+      "end": "2025-12-13T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Japan Open --",
+      "start": "2025-12-13T09:00:00.000Z",
+      "end": "2025-12-13T13:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round 1070 (Div. 2)",
+      "start": "2025-12-11T22:35:00.000Z",
+      "end": "2025-12-12T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2176,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-253-Div.3】洛谷基础赛 #28 & KenOI Round 1",
+      "start": "2025-12-07T14:00:00.000Z",
+      "end": "2025-12-07T17:30:00.000Z",
+      "duration": 12600,
+      "id": 254710,
+      "source": "luogu"
+    },
+    {
+      "title": "JOI 20252026",
+      "start": "2025-12-07T12:00:00.000Z",
+      "end": "2025-12-07T15:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 435",
+      "start": "2025-12-06T20:00:00.000Z",
+      "end": "2025-12-06T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round 1069 (Div. 1)",
+      "start": "2025-12-06T16:15:00.000Z",
+      "end": "2025-12-06T18:15:00.000Z",
+      "duration": 7200,
+      "id": 2174,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1069 (Div. 2)",
+      "start": "2025-12-06T16:15:00.000Z",
+      "end": "2025-12-06T18:15:00.000Z",
+      "duration": 7200,
+      "id": 2175,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "PhirainEX Round 1",
+      "start": "2025-12-06T14:00:00.000Z",
+      "end": "2025-12-06T18:00:00.000Z",
+      "duration": 14400,
+      "id": 288474,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1068 (Div. 2)",
+      "start": "2025-12-05T22:35:00.000Z",
+      "end": "2025-12-06T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2173,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 211 (Div 2)",
+      "start": "2025-11-30T20:00:00.000Z",
+      "end": "2025-11-30T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "OIMO Round 1",
+      "start": "2025-11-30T13:30:00.000Z",
+      "end": "2025-11-30T16:30:00.000Z",
+      "duration": 10800,
+      "id": 251007,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1067 (Div. 2)",
+      "start": "2025-11-29T22:35:00.000Z",
+      "end": "2025-11-30T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2158,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "2025AtCoder Beginner Contest 434",
+      "start": "2025-11-29T20:00:00.000Z",
+      "end": "2025-11-29T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Inc Programming Contest 2025 (AtCoder Beginner Contest 434)",
+      "start": "2025-11-29T20:00:00.000Z",
+      "end": "2025-11-29T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 057",
+      "start": "2025-11-29T14:00:00.000Z",
+      "end": "2025-11-29T18:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "NOIP2025 自测（官方数据）",
+      "start": "2025-11-29T13:30:00.000Z",
+      "end": "2025-12-08T20:00:00.000Z",
+      "duration": 801000,
+      "id": 294607,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 185 (Rated for Div. 2)",
+      "start": "2025-11-28T22:35:00.000Z",
+      "end": "2025-11-29T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2170,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "KAIST RUN 2018 FALL Unofficial Mirror",
+      "start": "2025-11-28T13:00:00.000Z",
+      "end": "2025-11-28T18:00:00.000Z",
+      "duration": 18000,
+      "id": 293956,
+      "source": "luogu"
+    },
+    {
+      "title": "KAIST RUN 2019 FALL Unofficial Mirror",
+      "start": "2025-11-27T13:00:00.000Z",
+      "end": "2025-11-27T18:00:00.000Z",
+      "duration": 18000,
+      "id": 293901,
+      "source": "luogu"
+    },
+    {
+      "title": "NOIP 模板自测赛",
+      "start": "2025-11-25T11:00:00.000Z",
+      "end": "2025-11-29T08:30:00.000Z",
+      "duration": 336600,
+      "id": 293606,
+      "source": "luogu"
+    },
+    {
+      "title": "COCI 2025/2026 #2 Unofficial Mirror",
+      "start": "2025-11-24T15:00:00.000Z",
+      "end": "2025-11-24T18:00:00.000Z",
+      "duration": 10800,
+      "id": 293391,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+      "start": "2025-11-23T17:35:00.000Z",
+      "end": "2025-11-23T20:35:00.000Z",
+      "duration": 10800,
+      "id": 2157,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "第六届辽宁省大学生程序设计竞赛重现赛",
+      "start": "2025-11-23T17:00:00.000Z",
+      "end": "2025-11-23T22:00:00.000Z",
+      "duration": 18000,
+      "id": 291968,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1",
+      "start": "2025-11-23T14:00:00.000Z",
+      "end": "2025-11-23T17:30:00.000Z",
+      "duration": 12600,
+      "id": 242706,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 433",
+      "start": "2025-11-22T20:00:00.000Z",
+      "end": "2025-11-22T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Conclusion Masters #3: LAOI-R11",
+      "start": "2025-11-22T14:00:00.000Z",
+      "end": "2025-11-22T18:00:00.000Z",
+      "duration": 14400,
+      "id": 230112,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-S12】梦熊 NOIP 2025 模拟赛 4（同步赛）",
+      "start": "2025-11-22T08:30:00.000Z",
+      "end": "2025-11-22T13:00:00.000Z",
+      "duration": 16200,
+      "id": 287515,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
+      "start": "2025-11-21T19:00:00.000Z",
+      "end": "2025-11-21T21:00:00.000Z",
+      "duration": 7200,
+      "id": 291890,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1065 (Div. 3)",
+      "start": "2025-11-20T22:35:00.000Z",
+      "end": "2025-11-21T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2171,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "IO 2024 Round 3（团体赛）Unofficial Mirror",
+      "start": "2025-11-19T13:00:00.000Z",
+      "end": "2025-11-19T18:00:00.000Z",
+      "duration": 18000,
+      "id": 292020,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1064 (Div. 1)",
+      "start": "2025-11-16T22:35:00.000Z",
+      "end": "2025-11-17T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2165,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1064 (Div. 2)",
+      "start": "2025-11-16T22:35:00.000Z",
+      "end": "2025-11-17T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2166,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "estie 2025 AtCoder Regular Contest 210",
+      "start": "2025-11-16T20:00:00.000Z",
+      "end": "2025-11-16T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 210",
+      "start": "2025-11-16T20:00:00.000Z",
+      "end": "2025-11-16T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "BYOI Round 1",
+      "start": "2025-11-16T14:00:00.000Z",
+      "end": "2025-11-16T18:30:00.000Z",
+      "duration": 16200,
+      "id": 261933,
+      "source": "luogu"
+    },
+    {
+      "title": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+      "start": "2025-11-16T09:50:00.000Z",
+      "end": "2025-11-16T14:50:00.000Z",
+      "duration": 18000,
+      "id": 2172,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R6.5（同步赛）",
+      "start": "2025-11-16T08:30:00.000Z",
+      "end": "2025-11-16T13:00:00.000Z",
+      "duration": 16200,
+      "id": 287508,
+      "source": "luogu"
+    },
+    {
+      "title": "2025 2AtCoder Beginner Contest 432",
+      "start": "2025-11-15T20:00:00.000Z",
+      "end": "2025-11-15T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "OMRON Corporation Programming Contest 2025 2 (AtCoder Beginner Contest 432)",
+      "start": "2025-11-15T20:00:00.000Z",
+      "end": "2025-11-15T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "NFLSPC #8 重现赛",
+      "start": "2025-11-15T14:00:00.000Z",
+      "end": "2025-11-15T18:00:00.000Z",
+      "duration": 14400,
+      "id": 285711,
+      "source": "luogu"
+    },
+    {
+      "title": "JOI 20252026  (3)",
+      "start": "2025-11-15T13:00:00.000Z",
+      "end": "2025-11-15T14:20:00.000Z",
+      "duration": 4800,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-250】洛谷 NOIP 2025 模拟赛",
+      "start": "2025-11-15T08:30:00.000Z",
+      "end": "2025-11-15T13:00:00.000Z",
+      "duration": 16200,
+      "id": 289075,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 184 (Rated for Div. 2)",
+      "start": "2025-11-14T22:35:00.000Z",
+      "end": "2025-11-15T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2169,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "[ICPC2025 Xi'an R] ICPC 2025 区域赛西安站重现赛",
+      "start": "2025-11-11T13:00:00.000Z",
+      "end": "2025-11-11T18:00:00.000Z",
+      "duration": 18000,
+      "id": 289673,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1063 (Div. 2)",
+      "start": "2025-11-10T23:05:00.000Z",
+      "end": "2025-11-11T01:05:00.000Z",
+      "duration": 7200,
+      "id": 2163,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 209 (Div 1)",
+      "start": "2025-11-09T20:00:00.000Z",
+      "end": "2025-11-09T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
+      "start": "2025-11-09T14:00:00.000Z",
+      "end": "2025-11-09T18:00:00.000Z",
+      "duration": 14400,
+      "id": 230986,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
+      "start": "2025-11-09T14:00:00.000Z",
+      "end": "2025-11-09T18:00:00.000Z",
+      "duration": 14400,
+      "id": 276844,
+      "source": "luogu"
+    },
+    {
+      "title": "测试赛",
+      "start": "2025-11-08T22:35:00.000Z",
+      "end": "2025-11-09T00:35:00.000Z",
+      "duration": 7200,
+      "id": 290136,
+      "source": "luogu"
+    },
+    {
+      "title": "2025AtCoder Beginner Contest 431",
+      "start": "2025-11-08T20:00:00.000Z",
+      "end": "2025-11-08T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "TOYOTA SYSTEMS Programming Contest 2025AtCoder Beginner Contest 431)",
+      "start": "2025-11-08T20:00:00.000Z",
+      "end": "2025-11-08T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "COCI 2025/2026 #1 Unofficial Mirror",
+      "start": "2025-11-08T15:00:00.000Z",
+      "end": "2025-11-08T18:00:00.000Z",
+      "duration": 10800,
+      "id": 289769,
+      "source": "luogu"
+    },
+    {
+      "title": "2025 (Div 2)",
+      "start": "2025-11-08T12:00:00.000Z",
+      "end": "2025-11-08T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "2025 (Div 1)",
+      "start": "2025-11-08T12:00:00.000Z",
+      "end": "2025-11-08T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
+      "start": "2025-11-08T08:30:00.000Z",
+      "end": "2025-11-08T13:00:00.000Z",
+      "duration": 16200,
+      "id": 287507,
+      "source": "luogu"
+    },
+    {
+      "title": "HACK TO THE FUTURE 2026 AtCoder Heuristic Contest 056",
+      "start": "2025-11-07T18:00:00.000Z",
+      "end": "2025-11-17T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+      "start": "2025-11-06T22:35:00.000Z",
+      "end": "2025-11-07T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2164,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Testing Round 20 (Unrated, Communication Problems)",
+      "start": "2025-11-03T22:35:00.000Z",
+      "end": "2025-11-03T23:35:00.000Z",
+      "duration": 3600,
+      "id": 2168,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "FPS 24",
+      "start": "2025-11-03T12:00:00.000Z",
+      "end": "2025-11-03T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "FPS 24 24 Problems on Formal Power Series",
+      "start": "2025-11-03T12:00:00.000Z",
+      "end": "2025-11-03T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-S9】梦熊 NOIP 2025 模拟赛 1 & LAOI Round 16（同步赛）",
+      "start": "2025-11-02T08:30:00.000Z",
+      "end": "2025-11-02T13:00:00.000Z",
+      "duration": 16200,
+      "id": 287506,
+      "source": "luogu"
+    },
+    {
+      "title": "CSP-S 2025 自测（官方数据）",
+      "start": "2025-11-01T20:30:00.000Z",
+      "end": "2025-11-10T20:30:00.000Z",
+      "duration": 777600,
+      "id": 288428,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 430",
+      "start": "2025-11-01T20:00:00.000Z",
+      "end": "2025-11-01T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "CSP-J 2025 自测（官方数据）",
+      "start": "2025-11-01T12:45:00.000Z",
+      "end": "2025-11-10T20:30:00.000Z",
+      "duration": 805500,
+      "id": 288427,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder  Engineer Guild",
+      "start": "2025-11-01T12:10:00.000Z",
+      "end": "2025-11-01T15:10:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "Pinely Round 5 (Div. 1 + Div. 2)",
+      "start": "2025-10-31T00:35:00.000Z",
+      "end": "2025-10-31T03:35:00.000Z",
+      "duration": 10800,
+      "id": 2161,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1062 (Div. 4)",
+      "start": "2025-10-28T22:35:00.000Z",
+      "end": "2025-10-29T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2167,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Grand Contest 074",
+      "start": "2025-10-26T20:00:00.000Z",
+      "end": "2025-10-26T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-252-Div.1】洛谷 10 月月赛 III & ALFR Round 11",
+      "start": "2025-10-26T14:00:00.000Z",
+      "end": "2025-10-26T18:00:00.000Z",
+      "duration": 14400,
+      "id": 246498,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-252-Div.2】洛谷 10 月月赛 III & ALFR Round 11",
+      "start": "2025-10-26T14:00:00.000Z",
+      "end": "2025-10-26T18:00:00.000Z",
+      "duration": 14400,
+      "id": 282964,
+      "source": "luogu"
+    },
+    {
+      "title": "Aboi Round 2",
+      "start": "2025-10-26T08:00:00.000Z",
+      "end": "2025-10-26T12:30:00.000Z",
+      "duration": 16200,
+      "id": 278623,
+      "source": "luogu"
+    },
+    {
+      "title": "PolarisAI  2025AtCoder Beginner Contest 429",
+      "start": "2025-10-25T20:00:00.000Z",
+      "end": "2025-10-25T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "PolarisAI Programming Contest 2025AtCoder Beginner Contest 429",
+      "start": "2025-10-25T20:00:00.000Z",
+      "end": "2025-10-25T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-S8】梦熊 CSP-S 2025 模拟赛（同步赛）",
+      "start": "2025-10-25T14:30:00.000Z",
+      "end": "2025-10-25T18:30:00.000Z",
+      "duration": 14400,
+      "id": 281947,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J27】梦熊 CSP-J 2025 模拟赛（同步赛）",
+      "start": "2025-10-25T08:30:00.000Z",
+      "end": "2025-10-25T12:00:00.000Z",
+      "duration": 12600,
+      "id": 281945,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1061 (Div. 2)",
+      "start": "2025-10-24T22:35:00.000Z",
+      "end": "2025-10-25T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2156,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1060 (Div. 2)",
+      "start": "2025-10-19T22:35:00.000Z",
+      "end": "2025-10-20T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2154,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "RECRUIT  2025AtCoder Heuristic Contest 055",
+      "start": "2025-10-19T18:00:00.000Z",
+      "end": "2025-10-19T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "RECRUIT Nihonbashi Half Marathon 2025 Autumn AtCoder Heuristic Contest 055",
+      "start": "2025-10-19T18:00:00.000Z",
+      "end": "2025-10-19T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟",
+      "start": "2025-10-19T08:30:00.000Z",
+      "end": "2025-10-19T12:00:00.000Z",
+      "duration": 12600,
+      "id": 281663,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 428Promotion of AtCoderJobs",
+      "start": "2025-10-18T20:30:00.000Z",
+      "end": "2025-10-18T22:10:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 428",
+      "start": "2025-10-18T20:30:00.000Z",
+      "end": "2025-10-18T22:10:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟",
+      "start": "2025-10-18T14:30:00.000Z",
+      "end": "2025-10-18T18:30:00.000Z",
+      "duration": 14400,
+      "id": 281662,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1059 (Div. 3)",
+      "start": "2025-10-17T22:35:00.000Z",
+      "end": "2025-10-18T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2162,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-251-Div.4】洛谷入门赛 #40",
+      "start": "2025-10-17T19:00:00.000Z",
+      "end": "2025-10-17T21:00:00.000Z",
+      "duration": 7200,
+      "id": 283134,
+      "source": "luogu"
+    },
+    {
+      "title": "[CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛",
+      "start": "2025-10-17T13:00:00.000Z",
+      "end": "2025-10-17T18:00:00.000Z",
+      "duration": 18000,
+      "id": 283411,
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2024 Kunming I] ICPC2024 邀请赛昆明站重现赛",
+      "start": "2025-10-14T13:00:00.000Z",
+      "end": "2025-10-14T18:00:00.000Z",
+      "duration": 18000,
+      "id": 282825,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1058 (Div. 1)",
+      "start": "2025-10-12T22:35:00.000Z",
+      "end": "2025-10-13T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2159,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1058 (Div. 2)",
+      "start": "2025-10-12T22:35:00.000Z",
+      "end": "2025-10-13T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2160,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 208 (Div 2)",
+      "start": "2025-10-12T20:00:00.000Z",
+      "end": "2025-10-12T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "KismetOI Easy Round 1",
+      "start": "2025-10-12T08:30:00.000Z",
+      "end": "2025-10-12T12:30:00.000Z",
+      "duration": 14400,
+      "id": 270938,
+      "source": "luogu"
+    },
+    {
+      "title": "Panasonic Programming Contest 2025AtCoder Beginner Contest 427",
+      "start": "2025-10-11T20:00:00.000Z",
+      "end": "2025-10-11T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "[ICPC2024 Hangzhou R] ICPC2024 区域赛杭州站重现赛",
+      "start": "2025-10-11T13:00:00.000Z",
+      "end": "2025-10-11T18:00:00.000Z",
+      "duration": 18000,
+      "id": 281894,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1057 (Div. 2)",
+      "start": "2025-10-10T22:35:00.000Z",
+      "end": "2025-10-11T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2153,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-244-Div.2】洛谷 10 月月赛 II & FAOI-R8",
+      "start": "2025-10-07T14:00:00.000Z",
+      "end": "2025-10-07T18:00:00.000Z",
+      "duration": 14400,
+      "id": 278764,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8",
+      "start": "2025-10-07T14:00:00.000Z",
+      "end": "2025-10-07T18:00:00.000Z",
+      "duration": 14400,
+      "id": 230741,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 183 (Rated for Div. 2)",
+      "start": "2025-10-06T22:35:00.000Z",
+      "end": "2025-10-07T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2145,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
+      "start": "2025-10-06T14:00:00.000Z",
+      "end": "2025-10-06T16:30:00.000Z",
+      "duration": 9000,
+      "id": 278945,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
+      "start": "2025-10-06T14:00:00.000Z",
+      "end": "2025-10-06T16:30:00.000Z",
+      "duration": 9000,
+      "id": 278944,
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2022 Nanjing R] ICPC2022 区域赛南京站重现赛",
+      "start": "2025-10-06T08:30:00.000Z",
+      "end": "2025-10-06T13:30:00.000Z",
+      "duration": 18000,
+      "id": 278653,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1056 (Div. 2)",
+      "start": "2025-10-06T00:35:00.000Z",
+      "end": "2025-10-06T02:35:00.000Z",
+      "duration": 7200,
+      "id": 2155,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 207 (Div1)",
+      "start": "2025-10-05T20:00:00.000Z",
+      "end": "2025-10-05T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "『Raiden Ei』 Round 1",
+      "start": "2025-10-05T14:00:00.000Z",
+      "end": "2025-10-05T18:30:00.000Z",
+      "duration": 16200,
+      "id": 250078,
+      "source": "luogu"
+    },
+    {
+      "title": "Algo Beat Contest 002.5",
+      "start": "2025-10-05T08:30:00.000Z",
+      "end": "2025-10-05T12:00:00.000Z",
+      "duration": 12600,
+      "id": 263244,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 426",
+      "start": "2025-10-04T20:00:00.000Z",
+      "end": "2025-10-04T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "zyh_helen's Construction Round",
+      "start": "2025-10-04T14:00:00.000Z",
+      "end": "2025-10-04T18:00:00.000Z",
+      "duration": 14400,
+      "id": 273114,
+      "source": "luogu"
+    },
+    {
+      "title": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+      "start": "2025-10-03T22:35:00.000Z",
+      "end": "2025-10-04T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2152,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
+      "start": "2025-10-03T14:00:00.000Z",
+      "end": "2025-10-03T18:00:00.000Z",
+      "duration": 14400,
+      "id": 277395,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
+      "start": "2025-10-03T14:00:00.000Z",
+      "end": "2025-10-03T18:00:00.000Z",
+      "duration": 14400,
+      "id": 228774,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
+      "start": "2025-10-02T14:05:00.000Z",
+      "end": "2025-10-02T18:35:00.000Z",
+      "duration": 16200,
+      "id": 278459,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
+      "start": "2025-10-02T14:05:00.000Z",
+      "end": "2025-10-02T18:35:00.000Z",
+      "duration": 16200,
+      "id": 278458,
+      "source": "luogu"
+    },
+    {
+      "title": "[SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛",
+      "start": "2025-10-02T08:30:00.000Z",
+      "end": "2025-10-02T13:30:00.000Z",
+      "duration": 18000,
+      "id": 278652,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-243-Div.3】洛谷基础赛 #26 & IAMOI Round #4",
+      "start": "2025-10-01T14:00:00.000Z",
+      "end": "2025-10-01T17:30:00.000Z",
+      "duration": 12600,
+      "id": 256849,
+      "source": "luogu"
+    },
+    {
+      "title": "[ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛",
+      "start": "2025-09-29T13:00:00.000Z",
+      "end": "2025-09-29T18:00:00.000Z",
+      "duration": 18000,
+      "id": 278448,
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Grand Contest 073",
+      "start": "2025-09-28T20:00:00.000Z",
+      "end": "2025-09-28T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "POCamp 2022 Unofficial Mirror",
+      "start": "2025-09-28T14:30:00.000Z",
+      "end": "2025-09-28T19:30:00.000Z",
+      "duration": 18000,
+      "id": 277913,
+      "source": "luogu"
+    },
+    {
+      "title": "UNIQUE VISION Programming Contest 2025 Autumn (AtCoder Beginner Contest 425)",
+      "start": "2025-09-27T20:00:00.000Z",
+      "end": "2025-09-27T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7",
+      "start": "2025-09-27T14:00:00.000Z",
+      "end": "2025-09-27T18:00:00.000Z",
+      "duration": 14400,
+      "id": 243716,
+      "source": "luogu"
+    },
+    {
+      "title": "Fortnight Round 1",
+      "start": "2025-09-27T08:00:00.000Z",
+      "end": "2025-09-27T12:00:00.000Z",
+      "duration": 14400,
+      "id": 214471,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1054 (Div. 3)",
+      "start": "2025-09-25T22:35:00.000Z",
+      "end": "2025-09-26T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2149,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1053 (Div. 1)",
+      "start": "2025-09-24T19:35:00.000Z",
+      "end": "2025-09-24T22:50:00.000Z",
+      "duration": 11700,
+      "id": 2150,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1053 (Div. 2)",
+      "start": "2025-09-24T19:35:00.000Z",
+      "end": "2025-09-24T22:50:00.000Z",
+      "duration": 11700,
+      "id": 2151,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "PO Final 2022 Unofficial Mirror",
+      "start": "2025-09-22T14:30:00.000Z",
+      "end": "2025-09-22T19:30:00.000Z",
+      "duration": 18000,
+      "id": 275647,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1052 (Div. 2)",
+      "start": "2025-09-21T22:35:00.000Z",
+      "end": "2025-09-22T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2146,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Regular Contest 206 (Div 2)",
+      "start": "2025-09-21T20:00:00.000Z",
+      "end": "2025-09-21T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-X21】梦熊 X 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+      "start": "2025-09-21T14:00:00.000Z",
+      "end": "2025-09-21T17:30:00.000Z",
+      "duration": 12600,
+      "id": 276403,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J24】梦熊 J 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+      "start": "2025-09-21T14:00:00.000Z",
+      "end": "2025-09-21T17:30:00.000Z",
+      "duration": 12600,
+      "id": 276404,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
+      "start": "2025-09-20T22:35:00.000Z",
+      "end": "2025-09-21T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2147,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 424",
+      "start": "2025-09-20T20:00:00.000Z",
+      "end": "2025-09-20T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-241-Div.4】洛谷入门赛 #39",
+      "start": "2025-09-19T19:00:00.000Z",
+      "end": "2025-09-19T21:00:00.000Z",
+      "duration": 7200,
+      "id": 275425,
+      "source": "luogu"
+    },
+    {
+      "title": "ALGO ARTIS Programming Contest 2025 SummerAtCoder Heuristic Contest 054",
+      "start": "2025-09-19T18:00:00.000Z",
+      "end": "2025-09-29T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round 1051 (Div. 2)",
+      "start": "2025-09-17T22:35:00.000Z",
+      "end": "2025-09-18T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2143,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "[SDCPC 2019] 第十届山东省 ICPC 大学生程序设计竞赛重现赛",
+      "start": "2025-09-16T13:00:00.000Z",
+      "end": "2025-09-16T18:00:00.000Z",
+      "duration": 18000,
+      "id": 276180,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 182 (Rated for Div. 2)",
+      "start": "2025-09-15T22:35:00.000Z",
+      "end": "2025-09-16T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2144,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 423",
+      "start": "2025-09-14T20:00:00.000Z",
+      "end": "2025-09-14T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round 1050 (Div. 4)",
+      "start": "2025-09-13T22:35:00.000Z",
+      "end": "2025-09-14T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2148,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "12th Asprova Programming ContestAtCoder Heuristic Contest 053",
+      "start": "2025-09-13T18:00:00.000Z",
+      "end": "2025-09-13T22:00:00.000Z",
+      "duration": 14400,
+      "source": "atcoder"
+    },
+    {
+      "title": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
+      "start": "2025-09-13T14:00:00.000Z",
+      "end": "2025-09-13T17:30:00.000Z",
+      "duration": 12600,
+      "id": 275290,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
+      "start": "2025-09-13T14:00:00.000Z",
+      "end": "2025-09-13T17:30:00.000Z",
+      "duration": 12600,
+      "id": 275289,
+      "source": "luogu"
+    },
+    {
+      "title": "Kotlin Heroes: Episode 13",
+      "start": "2025-09-12T22:35:00.000Z",
+      "end": "2025-09-13T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2141,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "[ICPC2024 Nanjing R] ICPC2024 区域赛南京站重现赛",
+      "start": "2025-09-10T13:00:00.000Z",
+      "end": "2025-09-10T18:00:00.000Z",
+      "duration": 18000,
+      "id": 275088,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1049 (Div. 2)",
+      "start": "2025-09-09T22:35:00.000Z",
+      "end": "2025-09-10T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2140,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "POCamp 2023 Unofficial Mirror",
+      "start": "2025-09-09T14:30:00.000Z",
+      "end": "2025-09-09T19:30:00.000Z",
+      "duration": 18000,
+      "id": 275073,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1048 (Div. 1)",
+      "start": "2025-09-08T22:35:00.000Z",
+      "end": "2025-09-09T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2138,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1048 (Div. 2)",
+      "start": "2025-09-08T22:35:00.000Z",
+      "end": "2025-09-09T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2139,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1047 (Div. 3)",
+      "start": "2025-09-07T22:35:00.000Z",
+      "end": "2025-09-08T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2137,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-240-Div.1】核桃编程 9 月月赛 I & florr IO Round 1",
+      "start": "2025-09-07T14:00:00.000Z",
+      "end": "2025-09-07T18:00:00.000Z",
+      "duration": 14400,
+      "id": 273933,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-240-Div.2】核桃编程 9 月月赛 I & florr IO Round 1",
+      "start": "2025-09-07T14:00:00.000Z",
+      "end": "2025-09-07T18:00:00.000Z",
+      "duration": 14400,
+      "id": 228479,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start": "2025-09-06T14:00:00.000Z",
+      "end": "2025-09-06T17:30:00.000Z",
+      "duration": 12600,
+      "id": 273610,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+      "start": "2025-09-06T14:00:00.000Z",
+      "end": "2025-09-06T17:30:00.000Z",
+      "duration": 12600,
+      "id": 273609,
+      "source": "luogu"
+    },
+    {
+      "title": "PO Final 2023 Unofficial Mirror",
+      "start": "2025-09-05T14:30:00.000Z",
+      "end": "2025-09-05T19:30:00.000Z",
+      "duration": 18000,
+      "id": 273919,
+      "source": "luogu"
+    },
+    {
+      "title": "VKOSHP 2024 Unofficial Mirror",
+      "start": "2025-09-04T13:00:00.000Z",
+      "end": "2025-09-04T18:00:00.000Z",
+      "duration": 18000,
+      "id": 274039,
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
+      "start": "2025-09-03T13:00:00.000Z",
+      "end": "2025-09-03T18:00:00.000Z",
+      "duration": 18000,
+      "id": 273805,
+      "source": "luogu"
+    },
+    {
+      "title": "Kotlin Heroes: Practice 13",
+      "start": "2025-09-02T22:30:00.000Z",
+      "end": "2025-09-12T22:30:00.000Z",
+      "duration": 864000,
+      "id": 2142,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "[EC Final 2019] ICPC2019 东亚赛区决赛重现赛",
+      "start": "2025-09-02T13:00:00.000Z",
+      "end": "2025-09-02T18:00:00.000Z",
+      "duration": 18000,
+      "id": 273827,
+      "source": "luogu"
+    },
+    {
+      "title": "PO Final 2024 Unofficial Mirror",
+      "start": "2025-08-31T14:30:00.000Z",
+      "end": "2025-08-31T19:30:00.000Z",
+      "duration": 18000,
+      "id": 273457,
+      "source": "luogu"
+    },
+    {
+      "title": "「TFXOI」Round #3",
+      "start": "2025-08-30T14:00:00.000Z",
+      "end": "2025-08-30T18:00:00.000Z",
+      "duration": 14400,
+      "id": 249974,
+      "source": "luogu"
+    },
+    {
+      "title": "「KFCOI」Round #2",
+      "start": "2025-08-29T14:30:00.000Z",
+      "end": "2025-08-29T18:30:00.000Z",
+      "duration": 14400,
+      "id": 231056,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1046 (Div. 1)",
+      "start": "2025-08-28T22:35:00.000Z",
+      "end": "2025-08-29T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2135,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1046 (Div. 2)",
+      "start": "2025-08-28T22:35:00.000Z",
+      "end": "2025-08-29T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2136,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "SWERC 2020 Unofficial Mirror",
+      "start": "2025-08-28T13:00:00.000Z",
+      "end": "2025-08-28T18:00:00.000Z",
+      "duration": 18000,
+      "id": 272991,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1045 (Div. 2)",
+      "start": "2025-08-26T22:35:00.000Z",
+      "end": "2025-08-27T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2134,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "MatrixGroup's Unknown Round",
+      "start": "2025-08-25T13:00:00.000Z",
+      "end": "2025-08-25T17:30:00.000Z",
+      "duration": 16200,
+      "id": 264992,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1044 (Div. 2)",
+      "start": "2025-08-24T22:35:00.000Z",
+      "end": "2025-08-25T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2133,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start": "2025-08-24T14:00:00.000Z",
+      "end": "2025-08-24T17:30:00.000Z",
+      "duration": 12600,
+      "id": 270369,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
+      "start": "2025-08-24T14:00:00.000Z",
+      "end": "2025-08-24T17:30:00.000Z",
+      "duration": 12600,
+      "id": 270370,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
+      "start": "2025-08-23T14:00:00.000Z",
+      "end": "2025-08-23T17:30:00.000Z",
+      "duration": 12600,
+      "id": 241168,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-239-Div.4】洛谷入门赛 #38",
+      "start": "2025-08-22T19:00:00.000Z",
+      "end": "2025-08-22T21:00:00.000Z",
+      "duration": 7200,
+      "id": 270110,
+      "source": "luogu"
+    },
+    {
+      "title": "「LDOI」Round #3",
+      "start": "2025-08-22T13:30:00.000Z",
+      "end": "2025-08-22T16:30:00.000Z",
+      "duration": 10800,
+      "id": 220842,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1043 (Div. 3)",
+      "start": "2025-08-21T22:35:00.000Z",
+      "end": "2025-08-22T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2132,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "CZOI Round 6",
+      "start": "2025-08-21T14:00:00.000Z",
+      "end": "2025-08-21T17:30:00.000Z",
+      "duration": 12600,
+      "id": 261069,
+      "source": "luogu"
+    },
+    {
+      "title": "『Fwb』Round 2 之夏日心动",
+      "start": "2025-08-20T14:00:00.000Z",
+      "end": "2025-08-20T18:00:00.000Z",
+      "duration": 14400,
+      "id": 227926,
+      "source": "luogu"
+    },
+    {
+      "title": "o.OI Round 2",
+      "start": "2025-08-19T14:00:00.000Z",
+      "end": "2025-08-19T18:00:00.000Z",
+      "duration": 14400,
+      "id": 237166,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X17】梦熊 X 组 · 芝士赛（同步赛）",
+      "start": "2025-08-17T14:00:00.000Z",
+      "end": "2025-08-17T17:30:00.000Z",
+      "duration": 12600,
+      "id": 268622,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
+      "start": "2025-08-17T14:00:00.000Z",
+      "end": "2025-08-17T17:30:00.000Z",
+      "duration": 12600,
+      "id": 268623,
+      "source": "luogu"
+    },
+    {
+      "title": "Brooklyn Round 2 & NNOI Round 2",
+      "start": "2025-08-17T09:00:00.000Z",
+      "end": "2025-08-17T11:00:00.000Z",
+      "duration": 7200,
+      "id": 249017,
+      "source": "luogu"
+    },
+    {
+      "title": "『MGVOI』Round 1 加强赛",
+      "start": "2025-08-16T14:00:00.000Z",
+      "end": "2025-08-16T18:00:00.000Z",
+      "duration": 14400,
+      "id": 265532,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-(-27)】SCP 2025 第一轮（初赛 S 组）模拟",
+      "start": "2025-08-14T14:30:00.000Z",
+      "end": "2025-08-14T16:30:00.000Z",
+      "duration": 7200,
+      "id": 261748,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-238-Div.2】洛谷 8 月月赛 III & PumpkinOI Round 2",
+      "start": "2025-08-13T14:00:00.000Z",
+      "end": "2025-08-13T18:00:00.000Z",
+      "duration": 14400,
+      "id": 250409,
+      "source": "luogu"
+    },
+    {
+      "title": "「CyOI」Round 1",
+      "start": "2025-08-12T14:00:00.000Z",
+      "end": "2025-08-12T18:00:00.000Z",
+      "duration": 14400,
+      "id": 242562,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1042 (Div. 3)",
+      "start": "2025-08-10T22:35:00.000Z",
+      "end": "2025-08-11T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2131,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
+      "start": "2025-08-10T14:00:00.000Z",
+      "end": "2025-08-10T17:30:00.000Z",
+      "duration": 12600,
+      "id": 265699,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
+      "start": "2025-08-10T14:00:00.000Z",
+      "end": "2025-08-10T17:30:00.000Z",
+      "duration": 12600,
+      "id": 265698,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-(-26)】SCP 2025 第一轮（初赛 J 组）模拟",
+      "start": "2025-08-10T09:30:00.000Z",
+      "end": "2025-08-10T11:30:00.000Z",
+      "duration": 7200,
+      "id": 261747,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-236-Div.2】洛谷 8 月月赛 II & IAMOI Round #2",
+      "start": "2025-08-09T14:00:00.000Z",
+      "end": "2025-08-09T18:00:00.000Z",
+      "duration": 14400,
+      "id": 232936,
+      "source": "luogu"
+    },
+    {
+      "title": "TPOI Round 5 & Q Round",
+      "start": "2025-08-08T14:00:00.000Z",
+      "end": "2025-08-08T18:00:00.000Z",
+      "duration": 14400,
+      "id": 244596,
+      "source": "luogu"
+    },
+    {
+      "title": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+      "start": "2025-08-07T22:35:00.000Z",
+      "end": "2025-08-08T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2127,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "emojiOI Round 1",
+      "start": "2025-08-07T13:30:00.000Z",
+      "end": "2025-08-07T18:00:00.000Z",
+      "duration": 16200,
+      "id": 251143,
+      "source": "luogu"
+    },
+    {
+      "title": "『GTOI』Round 1",
+      "start": "2025-08-05T14:00:00.000Z",
+      "end": "2025-08-05T18:00:00.000Z",
+      "duration": 14400,
+      "id": 229569,
+      "source": "luogu"
+    },
+    {
+      "title": "CZOI Easy Round 5",
+      "start": "2025-08-04T14:30:00.000Z",
+      "end": "2025-08-04T18:00:00.000Z",
+      "duration": 12600,
+      "id": 250226,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
+      "start": "2025-08-03T14:00:00.000Z",
+      "end": "2025-08-03T17:30:00.000Z",
+      "duration": 12600,
+      "id": 263177,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
+      "start": "2025-08-03T14:00:00.000Z",
+      "end": "2025-08-03T17:30:00.000Z",
+      "duration": 12600,
+      "id": 263176,
+      "source": "luogu"
+    },
+    {
+      "title": "「WWOI」Round 1",
+      "start": "2025-08-03T09:00:00.000Z",
+      "end": "2025-08-03T11:30:00.000Z",
+      "duration": 9000,
+      "id": 143372,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-235-Div.2】洛谷 8 月月赛 I & WAOI R2, FeOI R1.5",
+      "start": "2025-08-02T14:00:00.000Z",
+      "end": "2025-08-02T18:00:00.000Z",
+      "duration": 14400,
+      "id": 232544,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1040 (Div. 1)",
+      "start": "2025-07-31T22:35:00.000Z",
+      "end": "2025-08-01T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2129,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1040 (Div. 2)",
+      "start": "2025-07-31T22:35:00.000Z",
+      "end": "2025-08-01T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2130,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "KOI 2025 Round 2 Unofficial Mirror",
+      "start": "2025-07-29T18:00:00.000Z",
+      "end": "2025-07-29T23:00:00.000Z",
+      "duration": 18000,
+      "id": 263580,
+      "source": "luogu"
+    },
+    {
+      "title": "KOI 2025 Round 1 Unofficial Mirror",
+      "start": "2025-07-29T14:00:00.000Z",
+      "end": "2025-07-29T16:30:00.000Z",
+      "duration": 9000,
+      "id": 263562,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1039 (Div. 2)",
+      "start": "2025-07-27T22:35:00.000Z",
+      "end": "2025-07-28T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2128,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-234-Div.3】洛谷网校 7 月 CSP-J 模拟月赛 & Cfz Round 6",
+      "start": "2025-07-27T14:00:00.000Z",
+      "end": "2025-07-27T17:30:00.000Z",
+      "duration": 12600,
+      "id": 255793,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J17】梦熊 J 组 · 松鼠赛（同步赛）",
+      "start": "2025-07-26T14:00:00.000Z",
+      "end": "2025-07-26T17:30:00.000Z",
+      "duration": 12600,
+      "id": 261525,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X14】梦熊 X 组 · 松鼠赛（同步赛）",
+      "start": "2025-07-26T14:00:00.000Z",
+      "end": "2025-07-26T17:30:00.000Z",
+      "duration": 12600,
+      "id": 261524,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 181 (Rated for Div. 2)",
+      "start": "2025-07-22T22:35:00.000Z",
+      "end": "2025-07-23T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2125,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+      "start": "2025-07-19T22:35:00.000Z",
+      "end": "2025-07-20T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2122,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "郑州一中公开赛 2025",
+      "start": "2025-07-19T14:00:00.000Z",
+      "end": "2025-07-19T18:30:00.000Z",
+      "duration": 16200,
+      "id": 251887,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-233-Div.4】洛谷入门赛 #37",
+      "start": "2025-07-18T19:00:00.000Z",
+      "end": "2025-07-18T21:00:00.000Z",
+      "duration": 7200,
+      "id": 256033,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1037 (Div. 3)",
+      "start": "2025-07-17T22:35:00.000Z",
+      "end": "2025-07-18T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2126,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-232-Div.2】西安三三信奥 7 月月赛 I & WAOI R4, FeOI R3.5",
+      "start": "2025-07-16T14:00:00.000Z",
+      "end": "2025-07-16T18:00:00.000Z",
+      "duration": 14400,
+      "id": 241770,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-231-Div.3】洛谷基础赛 #24 & CZOI Round 4",
+      "start": "2025-07-13T14:00:00.000Z",
+      "end": "2025-07-13T17:30:00.000Z",
+      "duration": 12600,
+      "id": 203883,
+      "source": "luogu"
+    },
+    {
+      "title": "2.48sOI Round 1",
+      "start": "2025-07-12T14:00:00.000Z",
+      "end": "2025-07-12T18:00:00.000Z",
+      "duration": 14400,
+      "id": 202042,
+      "source": "luogu"
+    },
+    {
+      "title": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+      "start": "2025-07-06T22:35:00.000Z",
+      "end": "2025-07-07T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2124,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "[FJCPC2025] 2025 年福建省大学生程序设计竞赛重现赛",
+      "start": "2025-07-06T13:00:00.000Z",
+      "end": "2025-07-06T18:00:00.000Z",
+      "duration": 18000,
+      "id": 254970,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1035 (Div. 2)",
+      "start": "2025-07-05T22:35:00.000Z",
+      "end": "2025-07-06T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2119,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "『STAOI』H - Round 1",
+      "start": "2025-07-05T14:00:00.000Z",
+      "end": "2025-07-05T19:00:00.000Z",
+      "duration": 18000,
+      "id": 253736,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1034 (Div. 3)",
+      "start": "2025-07-01T22:35:00.000Z",
+      "end": "2025-07-02T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2123,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
+      "start": "2025-06-29T14:00:00.000Z",
+      "end": "2025-06-29T17:00:00.000Z",
+      "duration": 10800,
+      "id": 252738,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12",
+      "start": "2025-06-29T14:00:00.000Z",
+      "end": "2025-06-29T17:00:00.000Z",
+      "duration": 10800,
+      "id": 252739,
+      "source": "luogu"
+    },
+    {
+      "title": "# IAOI Round 1 旅途 Only one's journey.",
+      "start": "2025-06-28T14:00:00.000Z",
+      "end": "2025-06-28T19:00:00.000Z",
+      "duration": 18000,
+      "id": 235738,
+      "source": "luogu"
+    },
+    {
+      "title": "Ynoi 2019 Unofficial Mirror",
+      "start": "2025-06-24T12:00:00.000Z",
+      "end": "2025-06-25T12:00:00.000Z",
+      "duration": 86400,
+      "id": 253194,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 180 (Rated for Div. 2)",
+      "start": "2025-06-23T22:35:00.000Z",
+      "end": "2025-06-24T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2112,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
+      "start": "2025-06-21T22:35:00.000Z",
+      "end": "2025-06-22T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2120,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1032 (Div. 3)",
+      "start": "2025-06-17T22:35:00.000Z",
+      "end": "2025-06-18T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2121,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1031 (Div. 2)",
+      "start": "2025-06-15T17:05:00.000Z",
+      "end": "2025-06-15T19:05:00.000Z",
+      "duration": 7200,
+      "id": 2113,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "DLESS Round 2：XOR MASTER #1",
+      "start": "2025-06-14T13:30:00.000Z",
+      "end": "2025-06-14T17:30:00.000Z",
+      "duration": 14400,
+      "id": 246684,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-230-Div.4】洛谷入门赛 #36",
+      "start": "2025-06-13T19:00:00.000Z",
+      "end": "2025-06-13T21:00:00.000Z",
+      "duration": 7200,
+      "id": 251050,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1030 (Div. 2)",
+      "start": "2025-06-12T22:35:00.000Z",
+      "end": "2025-06-13T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2118,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1029 (Div. 3)",
+      "start": "2025-06-08T22:35:00.000Z",
+      "end": "2025-06-09T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2117,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
+      "start": "2025-06-07T14:00:00.000Z",
+      "end": "2025-06-07T18:00:00.000Z",
+      "duration": 14400,
+      "id": 233396,
+      "source": "luogu"
+    },
+    {
+      "title": "Algo Beat Contest 002",
+      "start": "2025-06-07T10:00:00.000Z",
+      "end": "2025-06-07T11:40:00.000Z",
+      "duration": 6000,
+      "id": 230134,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 179 (Rated for Div. 2)",
+      "start": "2025-06-03T22:35:00.000Z",
+      "end": "2025-06-04T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2111,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-J15】梦熊 J 组 · 儿童节赛（同步赛）",
+      "start": "2025-06-01T14:00:00.000Z",
+      "end": "2025-06-01T17:30:00.000Z",
+      "duration": 12600,
+      "id": 249248,
+      "source": "luogu"
+    },
+    {
+      "title": "Brooklyn Round 1 & NNOI Round 1",
+      "start": "2025-06-01T08:30:00.000Z",
+      "end": "2025-06-01T11:30:00.000Z",
+      "duration": 10800,
+      "id": 211584,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1028 (Div. 1)",
+      "start": "2025-05-31T22:35:00.000Z",
+      "end": "2025-06-01T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2115,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1028 (Div. 2)",
+      "start": "2025-05-31T22:35:00.000Z",
+      "end": "2025-06-01T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2116,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-228-Div.3】洛谷基础赛 #23 &「LAOI」Round 8",
+      "start": "2025-05-31T14:00:00.000Z",
+      "end": "2025-05-31T17:30:00.000Z",
+      "duration": 12600,
+      "id": 187787,
+      "source": "luogu"
+    },
+    {
+      "title": "「TFXOI」Round #2",
+      "start": "2025-05-31T08:30:00.000Z",
+      "end": "2025-05-31T12:00:00.000Z",
+      "duration": 12600,
+      "id": 245637,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1027 (Div. 3)",
+      "start": "2025-05-26T22:35:00.000Z",
+      "end": "2025-05-27T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2114,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-227-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
+      "start": "2025-05-25T14:00:00.000Z",
+      "end": "2025-05-25T18:00:00.000Z",
+      "duration": 14400,
+      "id": 219334,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1026 (Div. 2)",
+      "start": "2025-05-24T22:35:00.000Z",
+      "end": "2025-05-25T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2110,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-225-Div.1.5】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
+      "start": "2025-05-24T14:00:00.000Z",
+      "end": "2025-05-24T18:00:00.000Z",
+      "duration": 14400,
+      "id": 245376,
+      "source": "luogu"
+    },
+    {
+      "title": "西安交通大学2025年程序设计竞赛校赛（同步赛）",
+      "start": "2025-05-18T13:30:00.000Z",
+      "end": "2025-05-18T18:30:00.000Z",
+      "duration": 18000,
+      "id": 245921,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1025 (Div. 2)",
+      "start": "2025-05-17T22:35:00.000Z",
+      "end": "2025-05-18T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2109,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Aboi Round 1",
+      "start": "2025-05-17T17:00:00.000Z",
+      "end": "2025-05-17T21:30:00.000Z",
+      "duration": 16200,
+      "id": 244152,
+      "source": "luogu"
+    },
+    {
+      "title": "MSTOI Round 1",
+      "start": "2025-05-17T13:00:00.000Z",
+      "end": "2025-05-17T16:30:00.000Z",
+      "duration": 12600,
+      "id": 235872,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-226-Div.4】洛谷入门赛 #35",
+      "start": "2025-05-16T19:00:00.000Z",
+      "end": "2025-05-16T21:00:00.000Z",
+      "duration": 7200,
+      "id": 245718,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1024 (Div. 1)",
+      "start": "2025-05-11T22:35:00.000Z",
+      "end": "2025-05-12T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2101,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1024 (Div. 2)",
+      "start": "2025-05-11T22:35:00.000Z",
+      "end": "2025-05-12T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2102,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "DLESS Round 1",
+      "start": "2025-05-11T14:00:00.000Z",
+      "end": "2025-05-11T18:00:00.000Z",
+      "duration": 14400,
+      "id": 238488,
+      "source": "luogu"
+    },
+    {
+      "title": "Math×Girl",
+      "start": "2025-05-10T13:30:00.000Z",
+      "end": "2025-05-10T18:00:00.000Z",
+      "duration": 16200,
+      "id": 179064,
+      "source": "luogu"
+    },
+    {
+      "title": "FCRT OI / Round 1",
+      "start": "2025-05-10T08:00:00.000Z",
+      "end": "2025-05-10T12:00:00.000Z",
+      "duration": 14400,
+      "id": 231124,
+      "source": "luogu"
+    },
+    {
+      "title": "JOI 2024/2025 二次予選 Unofficial Mirror",
+      "start": "2025-05-09T18:30:00.000Z",
+      "end": "2025-05-09T21:30:00.000Z",
+      "duration": 10800,
+      "id": 245601,
+      "source": "luogu"
+    },
+    {
+      "title": "Ynoi Easy Round 2018 Unofficial Mirror",
+      "start": "2025-05-08T14:00:00.000Z",
+      "end": "2025-05-09T14:00:00.000Z",
+      "duration": 86400,
+      "id": 245609,
+      "source": "luogu"
+    },
+    {
+      "title": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
+      "start": "2025-05-08T14:00:00.000Z",
+      "end": "2025-05-08T19:00:00.000Z",
+      "duration": 18000,
+      "id": 244750,
+      "source": "luogu"
+    },
+    {
+      "title": "Izborne pripreme 2025 Day 1 Unofficial Mirror",
+      "start": "2025-05-07T14:00:00.000Z",
+      "end": "2025-05-07T19:15:00.000Z",
+      "duration": 18900,
+      "id": 244749,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1023 (Div. 2)",
+      "start": "2025-05-05T22:35:00.000Z",
+      "end": "2025-05-06T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2107,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start": "2025-05-05T14:00:00.000Z",
+      "end": "2025-05-05T17:30:00.000Z",
+      "duration": 12600,
+      "id": 243109,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
+      "start": "2025-05-05T14:00:00.000Z",
+      "end": "2025-05-05T17:30:00.000Z",
+      "duration": 12600,
+      "id": 243108,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-223-Div.3】梅拉算智基础赛 #22 & YLLOI Round 1",
+      "start": "2025-05-04T14:00:00.000Z",
+      "end": "2025-05-04T17:30:00.000Z",
+      "duration": 12600,
+      "id": 213624,
+      "source": "luogu"
+    },
+    {
+      "title": "『ANIME』Round 2",
+      "start": "2025-05-04T08:30:00.000Z",
+      "end": "2025-05-04T11:30:00.000Z",
+      "duration": 10800,
+      "id": 235482,
+      "source": "luogu"
+    },
+    {
+      "title": "CZOI Round 3",
+      "start": "2025-05-03T14:30:00.000Z",
+      "end": "2025-05-03T17:30:00.000Z",
+      "duration": 10800,
+      "id": 240355,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-224-Div.2】洛谷 5 月月赛 I & FAOI-R9",
+      "start": "2025-05-02T14:00:00.000Z",
+      "end": "2025-05-02T18:00:00.000Z",
+      "duration": 14400,
+      "id": 241690,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1022 (Div. 2)",
+      "start": "2025-05-01T22:35:00.000Z",
+      "end": "2025-05-02T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2108,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "RiOI Round 6",
+      "start": "2025-05-01T14:00:00.000Z",
+      "end": "2025-05-01T18:00:00.000Z",
+      "duration": 14400,
+      "id": 232940,
+      "source": "luogu"
+    },
+    {
+      "title": "Conclusion Masters #2",
+      "start": "2025-05-01T08:00:00.000Z",
+      "end": "2025-05-01T12:00:00.000Z",
+      "duration": 14400,
+      "id": 230226,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 178 (Rated for Div. 2)",
+      "start": "2025-04-28T22:35:00.000Z",
+      "end": "2025-04-29T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2104,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "「LAOI」Easy Round 12",
+      "start": "2025-04-27T13:00:00.000Z",
+      "end": "2025-04-27T17:00:00.000Z",
+      "duration": 14400,
+      "id": 237332,
+      "source": "luogu"
+    },
+    {
+      "title": "eJOI 2024 Day 2 Unofficial Mirror",
+      "start": "2025-04-27T08:00:00.000Z",
+      "end": "2025-04-27T12:15:00.000Z",
+      "duration": 15300,
+      "id": 243276,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1021 (Div. 1)",
+      "start": "2025-04-26T16:35:00.000Z",
+      "end": "2025-04-26T19:35:00.000Z",
+      "duration": 10800,
+      "id": 2097,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1021 (Div. 2)",
+      "start": "2025-04-26T16:35:00.000Z",
+      "end": "2025-04-26T19:35:00.000Z",
+      "duration": 10800,
+      "id": 2098,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-222-Div.1】梅拉算智 4 月月赛 I & HCOI Round 2",
+      "start": "2025-04-26T14:00:00.000Z",
+      "end": "2025-04-26T18:00:00.000Z",
+      "duration": 14400,
+      "id": 201695,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-222-Div.2】梅拉算智 4 月月赛 I & HCOI Round 2",
+      "start": "2025-04-26T14:00:00.000Z",
+      "end": "2025-04-26T18:00:00.000Z",
+      "duration": 14400,
+      "id": 240146,
+      "source": "luogu"
+    },
+    {
+      "title": "WAOI R3",
+      "start": "2025-04-25T17:00:00.000Z",
+      "end": "2025-04-25T21:00:00.000Z",
+      "duration": 14400,
+      "id": 240240,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1020 (Div. 3)",
+      "start": "2025-04-24T22:35:00.000Z",
+      "end": "2025-04-25T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2106,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "eJOI 2024 Day 1 Unofficial Mirror",
+      "start": "2025-04-24T14:00:00.000Z",
+      "end": "2025-04-24T18:00:00.000Z",
+      "duration": 14400,
+      "id": 242895,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1019 (Div. 2)",
+      "start": "2025-04-21T22:35:00.000Z",
+      "end": "2025-04-22T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2103,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Tact Smart Battle 1",
+      "start": "2025-04-21T17:00:00.000Z",
+      "end": "2025-04-28T17:00:00.000Z",
+      "duration": 604800,
+      "id": 2105,
+      "type": "IOI",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "『STAOI』G - Round 9",
+      "start": "2025-04-20T14:00:00.000Z",
+      "end": "2025-04-20T18:00:00.000Z",
+      "duration": 14400,
+      "id": 210424,
+      "source": "luogu"
+    },
+    {
+      "title": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+      "start": "2025-04-19T22:35:00.000Z",
+      "end": "2025-04-20T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2096,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-221-Div.3】洛谷基础赛 #21",
+      "start": "2025-04-19T14:00:00.000Z",
+      "end": "2025-04-19T17:30:00.000Z",
+      "duration": 12600,
+      "id": 224129,
+      "source": "luogu"
+    },
+    {
+      "title": "WyOJ Round 1",
+      "start": "2025-04-18T14:00:00.000Z",
+      "end": "2025-04-18T18:00:00.000Z",
+      "duration": 14400,
+      "id": 239055,
+      "source": "luogu"
+    },
+    {
+      "title": "NOISG 2025 Preliminary Contest Unofficial Mirror",
+      "start": "2025-04-14T13:00:00.000Z",
+      "end": "2025-04-14T18:00:00.000Z",
+      "duration": 18000,
+      "id": 239906,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1017 (Div. 4)",
+      "start": "2025-04-13T23:35:00.000Z",
+      "end": "2025-04-14T01:50:00.000Z",
+      "duration": 8100,
+      "id": 2094,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "「UOI」 Beginner Contest 002 & Round 4",
+      "start": "2025-04-13T14:00:00.000Z",
+      "end": "2025-04-13T18:00:00.000Z",
+      "duration": 14400,
+      "id": 203994,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start": "2025-04-12T13:30:00.000Z",
+      "end": "2025-04-12T18:00:00.000Z",
+      "duration": 16200,
+      "id": 240581,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+      "start": "2025-04-12T13:30:00.000Z",
+      "end": "2025-04-12T18:00:00.000Z",
+      "duration": 16200,
+      "id": 240582,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-220-Div.4】洛谷入门赛 #34",
+      "start": "2025-04-11T19:00:00.000Z",
+      "end": "2025-04-11T21:00:00.000Z",
+      "duration": 7200,
+      "id": 240317,
+      "source": "luogu"
+    },
+    {
+      "title": "NordicOI 2025 Unofficial Mirror",
+      "start": "2025-04-10T17:30:00.000Z",
+      "end": "2025-04-10T22:30:00.000Z",
+      "duration": 18000,
+      "id": 239935,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1016 (Div. 3)",
+      "start": "2025-04-08T22:35:00.000Z",
+      "end": "2025-04-09T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2093,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "RMI 2019 Day 2 Unofficial Mirror",
+      "start": "2025-04-08T14:00:00.000Z",
+      "end": "2025-04-08T19:00:00.000Z",
+      "duration": 18000,
+      "id": 239768,
+      "source": "luogu"
+    },
+    {
+      "title": "Kotlin Heroes: Episode 12",
+      "start": "2025-04-07T22:35:00.000Z",
+      "end": "2025-04-08T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2087,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+      "start": "2025-04-05T22:35:00.000Z",
+      "end": "2025-04-06T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2084,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "中国科学技术大学2025年程序设计竞赛校赛（重现赛）",
+      "start": "2025-04-05T13:00:00.000Z",
+      "end": "2025-04-05T18:00:00.000Z",
+      "duration": 18000,
+      "id": 238099,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 177 (Rated for Div. 2)",
+      "start": "2025-04-03T22:35:00.000Z",
+      "end": "2025-04-04T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2086,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-(-25)】2025 年洛谷愚人节比赛 / April Fool's Contest",
+      "start": "2025-04-03T18:00:00.000Z",
+      "end": "2025-04-06T18:00:00.000Z",
+      "duration": 259200,
+      "id": 231658,
+      "source": "luogu"
+    },
+    {
+      "title": "NOISG 2025 Finals Unofficial Mirror",
+      "start": "2025-04-03T13:00:00.000Z",
+      "end": "2025-04-03T18:00:00.000Z",
+      "duration": 18000,
+      "id": 238798,
+      "source": "luogu"
+    },
+    {
+      "title": "RMI 2019 Day 1 Unofficial Mirror",
+      "start": "2025-04-02T14:00:00.000Z",
+      "end": "2025-04-02T19:00:00.000Z",
+      "duration": 18000,
+      "id": 237211,
+      "source": "luogu"
+    },
+    {
+      "title": "April Fools Day Contest 2025",
+      "start": "2025-04-01T22:35:00.000Z",
+      "end": "2025-04-02T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2095,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Ynoi Apirl Fool's Round 2025",
+      "start": "2025-04-01T14:00:00.000Z",
+      "end": "2025-04-01T18:00:00.000Z",
+      "duration": 14400,
+      "id": 238632,
+      "source": "luogu"
+    },
+    {
+      "title": "Kotlin Heroes: Practice 12",
+      "start": "2025-03-31T21:35:00.000Z",
+      "end": "2025-04-07T21:35:00.000Z",
+      "duration": 604800,
+      "id": 2088,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start": "2025-03-30T13:30:00.000Z",
+      "end": "2025-03-30T18:00:00.000Z",
+      "duration": 16200,
+      "id": 237311,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+      "start": "2025-03-30T13:30:00.000Z",
+      "end": "2025-03-30T18:00:00.000Z",
+      "duration": 16200,
+      "id": 237310,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1014 (Div. 2)",
+      "start": "2025-03-29T22:35:00.000Z",
+      "end": "2025-03-30T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2092,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #3",
+      "start": "2025-03-29T14:00:00.000Z",
+      "end": "2025-03-29T18:00:00.000Z",
+      "duration": 14400,
+      "id": 236568,
+      "source": "luogu"
+    },
+    {
+      "title": "KTSC 2025 R2 Unofficial Mirror",
+      "start": "2025-03-27T14:00:00.000Z",
+      "end": "2025-03-27T19:00:00.000Z",
+      "duration": 18000,
+      "id": 235972,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1013 (Div. 3)",
+      "start": "2025-03-25T22:35:00.000Z",
+      "end": "2025-03-26T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2091,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-218-Div.2】洛谷 3 月月赛 I & ALFR Round 7",
+      "start": "2025-03-23T14:00:00.000Z",
+      "end": "2025-03-23T18:00:00.000Z",
+      "duration": 14400,
+      "id": 226817,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1012 (Div. 1)",
+      "start": "2025-03-23T13:35:00.000Z",
+      "end": "2025-03-23T16:05:00.000Z",
+      "duration": 9000,
+      "id": 2089,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1012 (Div. 2)",
+      "start": "2025-03-23T13:35:00.000Z",
+      "end": "2025-03-23T16:05:00.000Z",
+      "duration": 9000,
+      "id": 2090,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1011 (Div. 2)",
+      "start": "2025-03-22T22:35:00.000Z",
+      "end": "2025-03-23T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2085,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "ZHQOI Round 1",
+      "start": "2025-03-22T14:00:00.000Z",
+      "end": "2025-03-22T19:00:00.000Z",
+      "duration": 18000,
+      "id": 210610,
+      "source": "luogu"
+    },
+    {
+      "title": "KTSC 2025 R1 Unofficial Mirror",
+      "start": "2025-03-21T14:00:00.000Z",
+      "end": "2025-03-21T19:00:00.000Z",
+      "duration": 18000,
+      "id": 235971,
+      "source": "luogu"
+    },
+    {
+      "title": "CrCPC 2024 Unofficial Mirror (teams preferred)",
+      "start": "2025-03-18T13:30:00.000Z",
+      "end": "2025-03-18T18:30:00.000Z",
+      "duration": 18000,
+      "id": 233144,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 176 (Rated for Div. 2)",
+      "start": "2025-03-17T22:35:00.000Z",
+      "end": "2025-03-18T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2075,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "NHSPC 2023 Unofficial Mirror",
+      "start": "2025-03-17T14:00:00.000Z",
+      "end": "2025-03-17T19:00:00.000Z",
+      "duration": 18000,
+      "id": 235402,
+      "source": "luogu"
+    },
+    {
+      "title": "PKOI Round 1",
+      "start": "2025-03-16T14:00:00.000Z",
+      "end": "2025-03-16T18:00:00.000Z",
+      "duration": 14400,
+      "id": 183510,
+      "source": "luogu"
+    },
+    {
+      "title": "「LAOI」Easy Round 9",
+      "start": "2025-03-16T08:00:00.000Z",
+      "end": "2025-03-16T12:00:00.000Z",
+      "duration": 14400,
+      "id": 231098,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1010 (Div. 1, Unrated)",
+      "start": "2025-03-15T22:35:00.000Z",
+      "end": "2025-03-16T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2081,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1010 (Div. 2, Unrated)",
+      "start": "2025-03-15T22:35:00.000Z",
+      "end": "2025-03-16T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2082,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "XRCOI Round 1",
+      "start": "2025-03-15T14:00:00.000Z",
+      "end": "2025-03-15T18:30:00.000Z",
+      "duration": 16200,
+      "id": 221170,
+      "source": "luogu"
+    },
+    {
+      "title": "NtF Round 2.5",
+      "start": "2025-03-15T09:00:00.000Z",
+      "end": "2025-03-15T12:30:00.000Z",
+      "duration": 12600,
+      "id": 218215,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-217-Div.4】洛谷入门赛 #33",
+      "start": "2025-03-14T19:00:00.000Z",
+      "end": "2025-03-14T21:00:00.000Z",
+      "duration": 7200,
+      "id": 235262,
+      "source": "luogu"
+    },
+    {
+      "title": "RMI 2024 Day 2 Unofficial Mirror",
+      "start": "2025-03-14T14:00:00.000Z",
+      "end": "2025-03-14T19:00:00.000Z",
+      "duration": 18000,
+      "id": 235365,
+      "source": "luogu"
+    },
+    {
+      "title": "RMI 2024 Day 1 Unofficial Mirror",
+      "start": "2025-03-13T14:00:00.000Z",
+      "end": "2025-03-13T19:00:00.000Z",
+      "duration": 18000,
+      "id": 235231,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1009 (Div. 3)",
+      "start": "2025-03-11T22:35:00.000Z",
+      "end": "2025-03-12T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2074,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1008 (Div. 1)",
+      "start": "2025-03-10T22:45:00.000Z",
+      "end": "2025-03-11T01:15:00.000Z",
+      "duration": 9000,
+      "id": 2077,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1008 (Div. 2)",
+      "start": "2025-03-10T22:45:00.000Z",
+      "end": "2025-03-11T01:15:00.000Z",
+      "duration": 9000,
+      "id": 2078,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
+      "start": "2025-03-10T16:05:00.000Z",
+      "end": "2025-03-10T21:05:00.000Z",
+      "duration": 18000,
+      "id": 2080,
+      "type": "IOI",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "第六届威海市大学生程序设计竞赛（本科组）重现赛",
+      "start": "2025-03-09T13:00:00.000Z",
+      "end": "2025-03-09T18:00:00.000Z",
+      "duration": 18000,
+      "id": 234038,
+      "source": "luogu"
+    },
+    {
+      "title": "o.OI Round 1",
+      "start": "2025-03-08T14:00:00.000Z",
+      "end": "2025-03-08T18:00:00.000Z",
+      "duration": 14400,
+      "id": 224200,
+      "source": "luogu"
+    },
+    {
+      "title": "CCC 2025 Senior Unofficial Mirror",
+      "start": "2025-03-07T19:00:00.000Z",
+      "end": "2025-03-07T22:00:00.000Z",
+      "duration": 10800,
+      "id": 234304,
+      "source": "luogu"
+    },
+    {
+      "title": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
+      "start": "2025-03-07T16:05:00.000Z",
+      "end": "2025-03-07T21:05:00.000Z",
+      "duration": 18000,
+      "id": 2079,
+      "type": "IOI",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "European Championship 2025 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+      "start": "2025-03-02T18:35:00.000Z",
+      "end": "2025-03-02T23:35:00.000Z",
+      "duration": 18000,
+      "id": 2068,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "2025 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "start": "2025-03-01T10:05:00.000Z",
+      "end": "2025-03-01T15:05:00.000Z",
+      "duration": 18000,
+      "id": 2073,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1007 (Div. 2)",
+      "start": "2025-02-28T22:35:00.000Z",
+      "end": "2025-03-01T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2071,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Educational Codeforces Round 175 (Rated for Div. 2)",
+      "start": "2025-02-27T22:35:00.000Z",
+      "end": "2025-02-28T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2070,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "2025 年湖北省省队选拔集训暨能力测试（同步赛）",
+      "start": "2025-02-27T14:00:00.000Z",
+      "end": "2025-02-27T19:30:00.000Z",
+      "duration": 19800,
+      "id": 230135,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1006 (Div. 3)",
+      "start": "2025-02-25T22:35:00.000Z",
+      "end": "2025-02-26T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2072,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【UM-16】PA Mashup #2（team preferred）",
+      "start": "2025-02-24T13:30:00.000Z",
+      "end": "2025-02-24T18:30:00.000Z",
+      "duration": 18000,
+      "id": 230575,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J11】梦熊 J 组 · 黄瓜赛 & GROI R3（同步赛）",
+      "start": "2025-02-23T13:30:00.000Z",
+      "end": "2025-02-23T18:00:00.000Z",
+      "duration": 16200,
+      "id": 231268,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X9】梦熊 X 组 · 黄瓜赛 & GROI R3（同步赛）",
+      "start": "2025-02-23T13:30:00.000Z",
+      "end": "2025-02-23T18:00:00.000Z",
+      "duration": 16200,
+      "id": 231267,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-215-Div.3】洛谷基础赛 #20 & FAOI-R4",
+      "start": "2025-02-23T08:30:00.000Z",
+      "end": "2025-02-23T12:00:00.000Z",
+      "duration": 12600,
+      "id": 198710,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-216-Div.1】洛谷 2 月月赛 I & FTLOI Round 2",
+      "start": "2025-02-22T14:00:00.000Z",
+      "end": "2025-02-22T18:00:00.000Z",
+      "duration": 14400,
+      "id": 153891,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-216-Div.2】洛谷 2 月月赛 I & FTLOI Round 2",
+      "start": "2025-02-22T14:00:00.000Z",
+      "end": "2025-02-22T18:00:00.000Z",
+      "duration": 14400,
+      "id": 230418,
+      "source": "luogu"
+    },
+    {
+      "title": "「KFCOI」Round #1",
+      "start": "2025-02-22T08:00:00.000Z",
+      "end": "2025-02-22T12:00:00.000Z",
+      "duration": 14400,
+      "id": 219730,
+      "source": "luogu"
+    },
+    {
+      "title": "IAMOI Round #1",
+      "start": "2025-02-21T17:00:00.000Z",
+      "end": "2025-02-21T21:00:00.000Z",
+      "duration": 14400,
+      "id": 199004,
+      "source": "luogu"
+    },
+    {
+      "title": "「TFXOI」Segment_Tree Round",
+      "start": "2025-02-20T12:30:00.000Z",
+      "end": "2025-02-20T17:30:00.000Z",
+      "duration": 18000,
+      "id": 228295,
+      "source": "luogu"
+    },
+    {
+      "title": "COCI 2024/2025 #5 Unofficial Mirror",
+      "start": "2025-02-19T15:00:00.000Z",
+      "end": "2025-02-19T18:00:00.000Z",
+      "duration": 10800,
+      "id": 231585,
+      "source": "luogu"
+    },
+    {
+      "title": "Educational Codeforces Round 174 (Rated for Div. 2)",
+      "start": "2025-02-18T22:35:00.000Z",
+      "end": "2025-02-19T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2069,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1005 (Div. 2)",
+      "start": "2025-02-16T22:35:00.000Z",
+      "end": "2025-02-17T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2064,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "TPOI Round 1 & 省选加油赛",
+      "start": "2025-02-15T14:00:00.000Z",
+      "end": "2025-02-15T18:00:00.000Z",
+      "duration": 14400,
+      "id": 228507,
+      "source": "luogu"
+    },
+    {
+      "title": "【LGR-214-Div.4】洛谷入门赛 #32",
+      "start": "2025-02-14T19:00:00.000Z",
+      "end": "2025-02-14T21:00:00.000Z",
+      "duration": 7200,
+      "id": 228622,
+      "source": "luogu"
+    },
+    {
+      "title": "『King-OI』Round 1 之萤火飞光",
+      "start": "2025-02-14T14:00:00.000Z",
+      "end": "2025-02-14T18:15:00.000Z",
+      "duration": 15300,
+      "id": 228532,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-15】JOIG 2024/2025 Final Unofficial Mirror",
+      "start": "2025-02-12T14:00:00.000Z",
+      "end": "2025-02-12T18:00:00.000Z",
+      "duration": 14400,
+      "id": 230332,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1004 (Div. 1)",
+      "start": "2025-02-11T22:35:00.000Z",
+      "end": "2025-02-12T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2066,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 1004 (Div. 2)",
+      "start": "2025-02-11T22:35:00.000Z",
+      "end": "2025-02-12T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2067,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【UM-14】ROIR 2025 Day 2 Unofficial Mirror",
+      "start": "2025-02-10T14:30:00.000Z",
+      "end": "2025-02-10T17:30:00.000Z",
+      "duration": 10800,
+      "id": 229404,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-13】ROIR 2025 Day 1 Unofficial Mirror",
+      "start": "2025-02-10T08:30:00.000Z",
+      "end": "2025-02-10T11:30:00.000Z",
+      "duration": 10800,
+      "id": 229403,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1003 (Div. 4)",
+      "start": "2025-02-09T22:35:00.000Z",
+      "end": "2025-02-10T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2065,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "JRKSJ 的比赛 Extra Round",
+      "start": "2025-02-09T14:00:00.000Z",
+      "end": "2025-02-09T18:30:00.000Z",
+      "duration": 16200,
+      "id": 220246,
+      "source": "luogu"
+    },
+    {
+      "title": "Algo Beat Contest 001",
+      "start": "2025-02-03T20:00:00.000Z",
+      "end": "2025-02-03T21:40:00.000Z",
+      "duration": 6000,
+      "id": 206100,
+      "source": "luogu"
+    },
+    {
+      "title": "『ANIME』Round 1",
+      "start": "2025-02-03T14:00:00.000Z",
+      "end": "2025-02-03T17:00:00.000Z",
+      "duration": 10800,
+      "id": 219988,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1002 (Div. 2)",
+      "start": "2025-02-02T22:35:00.000Z",
+      "end": "2025-02-03T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2059,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "FAOI-R5",
+      "start": "2025-02-02T13:30:00.000Z",
+      "end": "2025-02-02T18:30:00.000Z",
+      "duration": 18000,
+      "id": 220507,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-12】COCI 2024/2025 #4 Unofficial Mirror",
+      "start": "2025-02-01T15:00:00.000Z",
+      "end": "2025-02-01T18:00:00.000Z",
+      "duration": 10800,
+      "id": 228320,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X8】梦熊 X 组 · 猕猴桃赛 &「TAOI」Round 3（同步赛）",
+      "start": "2025-01-31T13:30:00.000Z",
+      "end": "2025-01-31T18:00:00.000Z",
+      "duration": 16200,
+      "id": 226531,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J10】梦熊 J 组 · 猕猴桃赛 &「TAOI」Round 3（同步赛）",
+      "start": "2025-01-31T13:30:00.000Z",
+      "end": "2025-01-31T18:00:00.000Z",
+      "duration": 16200,
+      "id": 226532,
+      "source": "luogu"
+    },
+    {
+      "title": "OvOI Round 1",
+      "start": "2025-01-28T20:00:00.000Z",
+      "end": "2025-01-28T21:30:00.000Z",
+      "duration": 5400,
+      "id": 224170,
+      "source": "luogu"
+    },
+    {
+      "title": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+      "start": "2025-01-26T22:35:00.000Z",
+      "end": "2025-01-27T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2062,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "『迷宫寻路』Round 3",
+      "start": "2025-01-26T14:00:00.000Z",
+      "end": "2025-01-26T18:00:00.000Z",
+      "duration": 14400,
+      "id": 212628,
+      "source": "luogu"
+    },
+    {
+      "title": "PumpkinOI Round 1",
+      "start": "2025-01-25T13:30:00.000Z",
+      "end": "2025-01-25T18:00:00.000Z",
+      "duration": 16200,
+      "id": 219156,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-11】PA Mashup #1（team preferred）",
+      "start": "2025-01-25T08:30:00.000Z",
+      "end": "2025-01-25T13:30:00.000Z",
+      "duration": 18000,
+      "id": 223563,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 1000 (Div. 2)",
+      "start": "2025-01-22T20:05:00.000Z",
+      "end": "2025-01-22T22:05:00.000Z",
+      "duration": 7200,
+      "id": 2063,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+      "start": "2025-01-20T22:35:00.000Z",
+      "end": "2025-01-21T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2061,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round 998 (Div. 3)",
+      "start": "2025-01-19T22:35:00.000Z",
+      "end": "2025-01-20T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2060,
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "『Fwb』Round 1 之冬日绚礼",
+      "start": "2025-01-19T14:00:00.000Z",
+      "end": "2025-01-19T18:00:00.000Z",
+      "duration": 14400,
+      "id": 218352,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-10】NordicOI 2024 Unofficial Mirror",
+      "start": "2025-01-18T14:30:00.000Z",
+      "end": "2025-01-18T17:30:00.000Z",
+      "duration": 10800,
+      "id": 223164,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 997 (Div. 2)",
+      "start": "2025-01-17T22:35:00.000Z",
+      "end": "2025-01-18T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2056,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【LGR-213-Div.4】洛谷入门赛 #31",
+      "start": "2025-01-17T19:00:00.000Z",
+      "end": "2025-01-17T21:00:00.000Z",
+      "duration": 7200,
+      "id": 224255,
+      "source": "luogu"
+    },
+    {
+      "title": "Codeforces Round 996 (Div. 2)",
+      "start": "2025-01-12T22:35:00.000Z",
+      "end": "2025-01-13T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2055,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "chaynOI Round 1",
+      "start": "2025-01-12T14:00:00.000Z",
+      "end": "2025-01-12T18:00:00.000Z",
+      "duration": 14400,
+      "id": 218890,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）",
+      "start": "2025-01-11T13:30:00.000Z",
+      "end": "2025-01-11T18:00:00.000Z",
+      "duration": 16200,
+      "id": 218816,
+      "source": "luogu"
+    },
+    {
+      "title": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
+      "start": "2025-01-11T13:30:00.000Z",
+      "end": "2025-01-11T18:00:00.000Z",
+      "duration": 16200,
+      "id": 218817,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-09】ROIR 2016 Day 2 Unofficial Mirror",
+      "start": "2025-01-10T14:30:00.000Z",
+      "end": "2025-01-10T17:30:00.000Z",
+      "duration": 10800,
+      "id": 222920,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-08】ROIR 2016 Day 1 Unofficial Mirror",
+      "start": "2025-01-10T08:30:00.000Z",
+      "end": "2025-01-10T11:30:00.000Z",
+      "duration": 10800,
+      "id": 222919,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-07】ROIR 2017 Day 2 Unofficial Mirror",
+      "start": "2025-01-05T14:30:00.000Z",
+      "end": "2025-01-05T18:00:00.000Z",
+      "duration": 12600,
+      "id": 222862,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-06】ROIR 2017 Day 1 Unofficial Mirror",
+      "start": "2025-01-05T08:30:00.000Z",
+      "end": "2025-01-05T12:00:00.000Z",
+      "duration": 12600,
+      "id": 222861,
+      "source": "luogu"
+    },
+    {
+      "title": "Hello 2025",
+      "start": "2025-01-04T22:35:00.000Z",
+      "end": "2025-01-05T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2057,
+      "type": "CF",
+      "phase": "FINISHED",
+      "source": "codeforces"
+    },
+    {
+      "title": "【UM-05】「NordicOI 2018」Unofficial Mirror",
+      "start": "2025-01-03T13:00:00.000Z",
+      "end": "2025-01-03T16:00:00.000Z",
+      "duration": 10800,
+      "id": 222860,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-04】「JOI 2024-2025 一次予選」Unofficial Mirror",
+      "start": "2025-01-02T18:30:00.000Z",
+      "end": "2025-01-02T21:30:00.000Z",
+      "duration": 10800,
+      "id": 222819,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-03】ROIR 2019 Day 2 Unofficial Mirror",
+      "start": "2025-01-01T14:30:00.000Z",
+      "end": "2025-01-01T17:30:00.000Z",
+      "duration": 10800,
+      "id": 222684,
+      "source": "luogu"
+    },
+    {
+      "title": "【UM-02】ROIR 2019 Day 1 Unofficial Mirror",
+      "start": "2025-01-01T08:30:00.000Z",
+      "end": "2025-01-01T11:30:00.000Z",
+      "duration": 10800,
+      "id": 222669,
+      "source": "luogu"
+    }
+  ]
+}

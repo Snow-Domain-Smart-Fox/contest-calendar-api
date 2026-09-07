@@ -1,0 +1,49 @@
+{
+  "page": 1,
+  "total_pages": 1,
+  "total_contests": 2,
+  "contests": [
+    {
+      "title": "【LGR-290-Div.4】洛谷入门赛 #49",
+      "start": "2026-07-12T19:00:00.000Z",
+      "end": "2026-07-12T21:00:00.000Z",
+      "duration": 7200,
+      "id": 332884,
+      "luoguId": 332884,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 0,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "[ICPC2017 Qingdao R] ICPC 2017 区域赛青岛站重现赛",
+      "start": "2026-07-12T13:00:00.000Z",
+      "end": "2026-07-12T18:00:00.000Z",
+      "duration": 18000,
+      "id": 334256,
+      "luoguId": 334256,
+      "method": 2,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 1,
+      "squad": true,
+      "problemCount": 11,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    }
+  ]
+}

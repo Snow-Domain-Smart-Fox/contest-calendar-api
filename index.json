@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-09-07T08:48:15.055Z",
+  "config": {
+    "recent_window_days": 7,
+    "waiting_list_window": "7-62天",
+    "history_start_year": 2025
+  },
+  "strategy": "incremental_update",
+  "endpoints": {
+    "recent_meta": "/{site}.json",
+    "recent_data": "/{site}-{page}.json",
+    "waiting_list": "/{site}-wl.json",
+    "history_all": "/history.json",
+    "history_year_index": "/year.json",
+    "history_year_detail": "/year-{yyyy}.json"
+  }
+}
