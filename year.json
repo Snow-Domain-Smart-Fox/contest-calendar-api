@@ -1,0 +1,24 @@
+{
+  "type": "year_index",
+  "generated_at": "2026-09-19T22:15:08.311Z",
+  "years": [
+    {
+      "year": 2026,
+      "total": 303,
+      "by_source": {
+        "luogu": 110,
+        "atcoder": 105,
+        "codeforces": 88
+      }
+    },
+    {
+      "year": 2025,
+      "total": 416,
+      "by_source": {
+        "luogu": 243,
+        "atcoder": 50,
+        "codeforces": 123
+      }
+    }
+  ]
+}
