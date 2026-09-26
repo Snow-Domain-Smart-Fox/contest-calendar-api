@@ -1,0 +1,25 @@
+{
+  "page": 5,
+  "total_pages": 5,
+  "total_contests": 42,
+  "contests": [
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-07-26T22:35:00.000Z",
+      "end": "2026-07-27T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2249,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-07-26T22:35:00.000Z",
+      "end": "2026-07-27T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2250,
+      "type": "CF",
+      "source": "codeforces"
+    }
+  ]
+}

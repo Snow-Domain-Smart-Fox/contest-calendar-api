@@ -1,0 +1,91 @@
+{
+  "site": "all",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-09-26T22:55:49.468Z",
+  "total_contests": 10,
+  "contests": [
+    {
+      "title": "AtCoder Regular Contest 231",
+      "start": "2026-10-04T20:00:00.000Z",
+      "end": "2026-10-04T22:00:00.000Z",
+      "duration": 7200,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 232",
+      "start": "2026-10-10T20:00:00.000Z",
+      "end": "2026-10-10T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-10-10T23:05:00.000Z",
+      "end": "2026-10-11T02:05:00.000Z",
+      "duration": 10800,
+      "id": 2271,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-10-10T23:05:00.000Z",
+      "end": "2026-10-11T02:05:00.000Z",
+      "duration": 10800,
+      "id": 2272,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 479",
+      "start": "2026-10-11T20:00:00.000Z",
+      "end": "2026-10-11T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-10-12T02:35:00.000Z",
+      "end": "2026-10-12T05:05:00.000Z",
+      "duration": 9000,
+      "id": 2270,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-10-12T02:35:00.000Z",
+      "end": "2026-10-12T05:05:00.000Z",
+      "duration": 9000,
+      "id": 2273,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-10-12T02:35:00.000Z",
+      "end": "2026-10-12T05:05:00.000Z",
+      "duration": 9000,
+      "id": 2274,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AAL Contest 001 Lets use segtree",
+      "start": "2026-10-12T12:00:00.000Z",
+      "end": "2026-10-12T17:00:00.000Z",
+      "duration": 18000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 1 + Div. 2)",
+      "start": "2026-10-17T22:35:00.000Z",
+      "end": "2026-10-18T01:35:00.000Z",
+      "duration": 10800,
+      "id": 2261,
+      "type": "CF",
+      "source": "codeforces"
+    }
+  ]
+}
