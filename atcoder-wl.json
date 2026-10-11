@@ -1,0 +1,30 @@
+{
+  "site": "atcoder",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-10-11T09:44:04.091Z",
+  "total_contests": 3,
+  "contests": [
+    {
+      "title": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
+      "start": "2026-10-30T18:00:00.000Z",
+      "end": "2026-11-09T18:00:00.000Z",
+      "duration": 864000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 079",
+      "start": "2026-11-01T20:00:00.000Z",
+      "end": "2026-11-01T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 079",
+      "start": "2026-11-08T20:00:00.000Z",
+      "end": "2026-11-08T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    }
+  ]
+}
