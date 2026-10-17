@@ -1,0 +1,18 @@
+{
+  "site": "codeforces",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-10-17T22:06:54.149Z",
+  "total_contests": 1,
+  "contests": [
+    {
+      "title": "Codeforces Round (Div. 3)",
+      "start": "2026-10-29T22:35:00.000Z",
+      "end": "2026-10-30T00:50:00.000Z",
+      "duration": 8100,
+      "id": 2278,
+      "type": "ICPC",
+      "source": "codeforces"
+    }
+  ]
+}
