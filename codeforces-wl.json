@@ -1,0 +1,36 @@
+{
+  "site": "codeforces",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-10-24T09:25:59.569Z",
+  "total_contests": 3,
+  "contests": [
+    {
+      "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "start": "2026-11-05T19:00:00.000Z",
+      "end": "2026-11-19T19:00:00.000Z",
+      "duration": 1209600,
+      "id": 2281,
+      "type": "IOI",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-11-07T22:35:00.000Z",
+      "end": "2026-11-08T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2279,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-11-07T22:35:00.000Z",
+      "end": "2026-11-08T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2280,
+      "type": "CF",
+      "source": "codeforces"
+    }
+  ]
+}

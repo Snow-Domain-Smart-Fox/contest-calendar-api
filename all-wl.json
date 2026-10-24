@@ -1,0 +1,71 @@
+{
+  "site": "all",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-10-24T09:25:59.570Z",
+  "total_contests": 8,
+  "contests": [
+    {
+      "title": "AtCoder Beginner Contest 482",
+      "start": "2026-10-31T20:00:00.000Z",
+      "end": "2026-10-31T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 079",
+      "start": "2026-11-01T20:00:00.000Z",
+      "end": "2026-11-01T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "start": "2026-11-05T19:00:00.000Z",
+      "end": "2026-11-19T19:00:00.000Z",
+      "duration": 1209600,
+      "id": 2281,
+      "type": "IOI",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 483",
+      "start": "2026-11-07T20:00:00.000Z",
+      "end": "2026-11-07T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "Codeforces Round (Div. 1)",
+      "start": "2026-11-07T22:35:00.000Z",
+      "end": "2026-11-08T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2279,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "Codeforces Round (Div. 2)",
+      "start": "2026-11-07T22:35:00.000Z",
+      "end": "2026-11-08T01:05:00.000Z",
+      "duration": 9000,
+      "id": 2280,
+      "type": "CF",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Grand Contest 079",
+      "start": "2026-11-08T20:00:00.000Z",
+      "end": "2026-11-08T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 484",
+      "start": "2026-11-14T20:00:00.000Z",
+      "end": "2026-11-14T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    }
+  ]
+}
