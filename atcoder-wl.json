@@ -1,0 +1,51 @@
+{
+  "site": "atcoder",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-11-07T10:38:10.760Z",
+  "total_contests": 6,
+  "contests": [
+    {
+      "title": "AtCoder Beginner Contest 484",
+      "start": "2026-11-14T20:00:00.000Z",
+      "end": "2026-11-14T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 485",
+      "start": "2026-11-21T20:00:00.000Z",
+      "end": "2026-11-21T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Regular Contest 234",
+      "start": "2026-11-22T20:00:00.000Z",
+      "end": "2026-11-22T22:30:00.000Z",
+      "duration": 9000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Beginner Contest 486",
+      "start": "2026-11-28T20:00:00.000Z",
+      "end": "2026-11-28T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 080",
+      "start": "2026-12-13T20:00:00.000Z",
+      "end": "2026-12-13T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 081",
+      "start": "2026-12-27T20:00:00.000Z",
+      "end": "2026-12-27T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    }
+  ]
+}
