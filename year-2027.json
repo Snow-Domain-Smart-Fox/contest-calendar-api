@@ -1,0 +1,26 @@
+{
+  "year": 2027,
+  "generated_at": "2026-11-15T00:54:23.018Z",
+  "total": 2,
+  "by_source": {
+    "luogu": 0,
+    "atcoder": 2,
+    "codeforces": 0
+  },
+  "contests": [
+    {
+      "title": "AtCoder Grand Contest 083",
+      "start": "2027-01-24T20:00:00.000Z",
+      "end": "2027-01-24T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 082",
+      "start": "2027-01-17T20:00:00.000Z",
+      "end": "2027-01-17T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    }
+  ]
+}
