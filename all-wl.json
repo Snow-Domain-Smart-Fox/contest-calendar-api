@@ -1,0 +1,153 @@
+{
+  "site": "all",
+  "type": "waiting_list",
+  "description": "Contests starting after 7 days within 62 days window",
+  "generated_at": "2026-11-28T12:38:22.033Z",
+  "total_contests": 14,
+  "contests": [
+    {
+      "title": "【LGR-318-Div.2】洛谷 12 月月赛 I & b0x_OI Round 1",
+      "start": "2026-12-05T14:00:00.000Z",
+      "end": "2026-12-05T18:00:00.000Z",
+      "duration": 14400,
+      "id": 362596,
+      "luoguId": 362596,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 5,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Beginner Contest 487",
+      "start": "2026-12-05T20:00:00.000Z",
+      "end": "2026-12-05T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "【LGR-320-Div.3】洛谷基础赛 #43 & Kobe OI Round Ⅰ",
+      "start": "2026-12-06T14:00:00.000Z",
+      "end": "2026-12-06T17:30:00.000Z",
+      "duration": 12600,
+      "id": 368856,
+      "luoguId": 368856,
+      "method": 4,
+      "visibility": 1,
+      "invitationCodeType": 1,
+      "rated": 3,
+      "squad": false,
+      "problemCount": 4,
+      "host": {
+        "id": 1000,
+        "name": "洛谷官方团队",
+        "isTeam": true,
+        "isPremium": true
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "start": "2026-12-08T19:00:00.000Z",
+      "end": "2026-12-22T19:00:00.000Z",
+      "duration": 1209600,
+      "id": 2291,
+      "type": "IOI",
+      "source": "codeforces"
+    },
+    {
+      "title": "AtCoder Beginner Contest 488",
+      "start": "2026-12-12T20:00:00.000Z",
+      "end": "2026-12-12T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "第二届“⌬杯”蓝桥杯省赛模拟赛",
+      "start": "2026-12-13T14:00:00.000Z",
+      "end": "2026-12-13T18:00:00.000Z",
+      "duration": 14400,
+      "id": 372249,
+      "luoguId": 372249,
+      "method": 1,
+      "visibility": 4,
+      "invitationCodeType": 1,
+      "rated": 0,
+      "squad": false,
+      "problemCount": 8,
+      "host": {
+        "id": 795355,
+        "name": "vegetableYe",
+        "isTeam": false,
+        "isPremium": false
+      },
+      "source": "luogu"
+    },
+    {
+      "title": "AtCoder Grand Contest 080",
+      "start": "2026-12-13T20:00:00.000Z",
+      "end": "2026-12-13T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 081",
+      "start": "2026-12-13T20:00:00.000Z",
+      "end": "2026-12-13T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "Educational Codeforces Round 197 (Rated for Div. 2)",
+      "start": "2026-12-14T22:35:00.000Z",
+      "end": "2026-12-15T00:35:00.000Z",
+      "duration": 7200,
+      "id": 2293,
+      "type": "ICPC",
+      "source": "codeforces"
+    },
+    {
+      "title": "UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest 489)",
+      "start": "2026-12-20T20:00:00.000Z",
+      "end": "2026-12-20T21:40:00.000Z",
+      "duration": 6000,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 081",
+      "start": "2026-12-27T20:00:00.000Z",
+      "end": "2026-12-27T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 082",
+      "start": "2026-12-27T20:00:00.000Z",
+      "end": "2026-12-27T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 082",
+      "start": "2027-01-17T20:00:00.000Z",
+      "end": "2027-01-17T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    },
+    {
+      "title": "AtCoder Grand Contest 083",
+      "start": "2027-01-24T20:00:00.000Z",
+      "end": "2027-01-24T23:00:00.000Z",
+      "duration": 10800,
+      "source": "atcoder"
+    }
+  ]
+}
